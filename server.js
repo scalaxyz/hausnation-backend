@@ -38,9 +38,9 @@ app.use(helmet({
   crossOriginResourcePolicy: { policy: "cross-origin" }
 }));
 
-// CORS configuration - FIXED
+// CORS configuration
 app.use(cors({
-  origin: true, // Allow all origins
+  origin: true,
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS', 'PATCH'],
   allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With'],
@@ -55,22 +55,30 @@ app.options('*', cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-// Rate limiting
-const limiter = rateLimit({
+// Rate limiting - Different limits for public vs admin
+const publicLimiter = rateLimit({
   windowMs: 15 * 60 * 1000, // 15 minutes
-  max: 100, // limit each IP to 100 requests per windowMs
-  message: 'Too many requests from this IP, please try again later.'
+  max: 100,
+  message: 'Too many requests from this IP, please try again later.',
+  standardHeaders: true,
+  legacyHeaders: false,
 });
 
-app.use('/api/', limiter);
+const adminLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000, // 15 minutes
+  max: 500, // Much higher limit for admin operations
+  message: 'Too many requests from this IP, please try again later.',
+  standardHeaders: true,
+  legacyHeaders: false,
+});
 
-// Routes
-app.use('/api/auth', require('./routes/auth'));
-app.use('/api/artists', require('./routes/artists'));
-app.use('/api/releases', require('./routes/releases'));
-app.use('/api/contact', require('./routes/contact'));
+// Routes with appropriate rate limiting
+app.use('/api/auth', adminLimiter, require('./routes/auth'));
+app.use('/api/artists', adminLimiter, require('./routes/artists'));
+app.use('/api/releases', adminLimiter, require('./routes/releases'));
+app.use('/api/contact', publicLimiter, require('./routes/contact'));
 
-// Health check endpoint
+// Health check endpoint (no rate limit)
 app.get('/api/health', (req, res) => {
   res.json({
     success: true,
@@ -79,7 +87,7 @@ app.get('/api/health', (req, res) => {
   });
 });
 
-// Root endpoint
+// Root endpoint (no rate limit)
 app.get('/', (req, res) => {
   res.json({
     success: true,
@@ -123,6 +131,9 @@ app.listen(PORT, () => {
 ║  Status: Running                       ║
 ║  Port: ${PORT}                           ║
 ║  Environment: ${process.env.NODE_ENV || 'development'}              ║
+║  Rate Limits:                          ║
+║    - Public: 100 req/15min             ║
+║    - Admin: 500 req/15min              ║
 ║                                        ║
 ╚════════════════════════════════════════╝
   `);
