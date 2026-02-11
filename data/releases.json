@@ -1,0 +1,4617 @@
+[
+  {
+    "id": "mlhs6sbl99vp07hf4vn",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "4kd9jvsAnPsLz9VNUTImGk",
+    "name": "After Dark x Sweather Weather",
+    "type": "single",
+    "releaseDate": "2025-07-24",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273392d81012b5fa4eb224b4c3c",
+    "spotifyUrl": "https://open.spotify.com/album/4kd9jvsAnPsLz9VNUTImGk",
+    "tracks": [
+      {
+        "id": "2Lhe0hWIs3MaDakue7QdO9",
+        "name": "After Dark x Sweather Weather",
+        "trackNumber": 1,
+        "duration": 128626,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2Lhe0hWIs3MaDakue7QdO9"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:50.049Z"
+  },
+  {
+    "id": "mlhs6slzph5cal2osha",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "1ZYvuRj2oFeHVkt1l1JjzM",
+    "name": "Kerosene",
+    "type": "single",
+    "releaseDate": "2025-06-28",
+    "totalTracks": 2,
+    "image": "https://i.scdn.co/image/ab67616d0000b2734663adf6965336990826f877",
+    "spotifyUrl": "https://open.spotify.com/album/1ZYvuRj2oFeHVkt1l1JjzM",
+    "tracks": [
+      {
+        "id": "5psQfNIZQ8fXhUQpEwPAsE",
+        "name": "Kerosene - Slowed",
+        "trackNumber": 1,
+        "duration": 157361,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5psQfNIZQ8fXhUQpEwPAsE"
+      },
+      {
+        "id": "5LXkZcIzC6h1EHoLu98ENo",
+        "name": "Kerosene - Sped Up",
+        "trackNumber": 2,
+        "duration": 90671,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5LXkZcIzC6h1EHoLu98ENo"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:50.423Z"
+  },
+  {
+    "id": "mlhs6sp6dc7mo78d4ei",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "1IVBidTiSRczyQa0ZgJHj4",
+    "name": "Ylang Ylang",
+    "type": "single",
+    "releaseDate": "2025-06-24",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273ae2aeb1306c57438b4f24800",
+    "spotifyUrl": "https://open.spotify.com/album/1IVBidTiSRczyQa0ZgJHj4",
+    "tracks": [
+      {
+        "id": "2BmMODMzA8jnSiZuM9DqoG",
+        "name": "Ylang Ylang",
+        "trackNumber": 1,
+        "duration": 102910,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2BmMODMzA8jnSiZuM9DqoG"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:50.538Z"
+  },
+  {
+    "id": "mlhs6stfie7cg0b4b4",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "7fkylN4eheKg64bzk9oNWV",
+    "name": "Let Go",
+    "type": "single",
+    "releaseDate": "2025-06-21",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2732fcbb23e189432c81e06131e",
+    "spotifyUrl": "https://open.spotify.com/album/7fkylN4eheKg64bzk9oNWV",
+    "tracks": [
+      {
+        "id": "6zpUj8PKuN04e68Fei9yu8",
+        "name": "Let Go",
+        "trackNumber": 1,
+        "duration": 210623,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6zpUj8PKuN04e68Fei9yu8"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:50.691Z"
+  },
+  {
+    "id": "mlhs6swdni4sigx3lbs",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "5Y8xYkhke4QIEuNWqeiw9h",
+    "name": "PRETTY BOY",
+    "type": "single",
+    "releaseDate": "2025-06-09",
+    "totalTracks": 3,
+    "image": "https://i.scdn.co/image/ab67616d0000b2736f09efdafeabc6b8b75f92d5",
+    "spotifyUrl": "https://open.spotify.com/album/5Y8xYkhke4QIEuNWqeiw9h",
+    "tracks": [
+      {
+        "id": "5hRAJG4kS6ujAVtUw6vyKP",
+        "name": "PRETTY BOY - V1",
+        "trackNumber": 1,
+        "duration": 149172,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5hRAJG4kS6ujAVtUw6vyKP"
+      },
+      {
+        "id": "7l1OPvqGFFeFqcb7vDtoqX",
+        "name": "PRETTY BOY - V2",
+        "trackNumber": 2,
+        "duration": 158042,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7l1OPvqGFFeFqcb7vDtoqX"
+      },
+      {
+        "id": "3jthxF4drG4tqCuddsrNNm",
+        "name": "PRETTY BOY - V3",
+        "trackNumber": 3,
+        "duration": 177396,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3jthxF4drG4tqCuddsrNNm"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:50.797Z"
+  },
+  {
+    "id": "mlhs6szj8q6xvwt0d2l",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "6xHbL9mr5piSurADbwSN4v",
+    "name": "Empathy! (Slowed)",
+    "type": "single",
+    "releaseDate": "2024-11-06",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27360f62863fb4358d90f2f67ce",
+    "spotifyUrl": "https://open.spotify.com/album/6xHbL9mr5piSurADbwSN4v",
+    "tracks": [
+      {
+        "id": "6AaxeyKhrCBLTKu712luiw",
+        "name": "Empathy! - Slowed",
+        "trackNumber": 1,
+        "duration": 60000,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6AaxeyKhrCBLTKu712luiw"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:50.911Z"
+  },
+  {
+    "id": "mlhs6t2copfrrcauasb",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "35suvnctvuSOj58XQ67MWW",
+    "name": "Berserk",
+    "type": "single",
+    "releaseDate": "2024-06-21",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27337d85120159ee0bf9345e907",
+    "spotifyUrl": "https://open.spotify.com/album/35suvnctvuSOj58XQ67MWW",
+    "tracks": [
+      {
+        "id": "6byta3wqM0b9ikVLudlmri",
+        "name": "Berserk",
+        "trackNumber": 1,
+        "duration": 128840,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6byta3wqM0b9ikVLudlmri"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:51.012Z"
+  },
+  {
+    "id": "mlhs6t5csk2atk3biyc",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "60UGRCLsAheQsDUjdpC6r0",
+    "name": "104.6 Sky Fm (II)",
+    "type": "single",
+    "releaseDate": "2024-03-27",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2739bddf75c46094a495a529932",
+    "spotifyUrl": "https://open.spotify.com/album/60UGRCLsAheQsDUjdpC6r0",
+    "tracks": [
+      {
+        "id": "2xPS1kyfE6FWft7bAsIJx3",
+        "name": "104.6 Sky Fm - II",
+        "trackNumber": 1,
+        "duration": 78510,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2xPS1kyfE6FWft7bAsIJx3"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:51.120Z"
+  },
+  {
+    "id": "mlhs6t82tl7h6qk3brn",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "6pLfYsCm0iB0xJnVcCupSL",
+    "name": "Pleasure (Remix)",
+    "type": "single",
+    "releaseDate": "2024-02-28",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2731156eac624327ecc78ae1eeb",
+    "spotifyUrl": "https://open.spotify.com/album/6pLfYsCm0iB0xJnVcCupSL",
+    "tracks": [
+      {
+        "id": "2MbI4MjOr2WaojGEjixgRn",
+        "name": "Pleasure - Remix",
+        "trackNumber": 1,
+        "duration": 110170,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2MbI4MjOr2WaojGEjixgRn"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:51.218Z"
+  },
+  {
+    "id": "mlhs6tb3fhp9wh8x2w",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "3IvqJiATV0Cp77VwkIlFjK",
+    "name": "Krushdance! (Remix)",
+    "type": "single",
+    "releaseDate": "2024-02-28",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273962116f0159b39ad1fecc6be",
+    "spotifyUrl": "https://open.spotify.com/album/3IvqJiATV0Cp77VwkIlFjK",
+    "tracks": [
+      {
+        "id": "5S1tCMPkbxAxqydYzVAIiD",
+        "name": "Krushdance! - Remix",
+        "trackNumber": 1,
+        "duration": 102740,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5S1tCMPkbxAxqydYzVAIiD"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:51.327Z"
+  },
+  {
+    "id": "mlhs6tfcdkr87956tia",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "6A8UrXrXHBA2mwpFRoOH7x",
+    "name": "104.6 Sky Fm (Sped Up)",
+    "type": "single",
+    "releaseDate": "2024-02-17",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273a1416d8297501f07baff9eb6",
+    "spotifyUrl": "https://open.spotify.com/album/6A8UrXrXHBA2mwpFRoOH7x",
+    "tracks": [
+      {
+        "id": "4P0Cc3j4sPaO14gZuJHSTp",
+        "name": "104.6 Sky Fm - Sped Up",
+        "trackNumber": 1,
+        "duration": 216850,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4P0Cc3j4sPaO14gZuJHSTp"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:51.480Z"
+  },
+  {
+    "id": "mlhs6ti01qhxcv5jtfh",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "7AUAqxlTocEY9sU2GmREKK",
+    "name": "Agresivo Funk",
+    "type": "single",
+    "releaseDate": "2024-02-13",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273bf4440e8a5ddb7cf3d087c72",
+    "spotifyUrl": "https://open.spotify.com/album/7AUAqxlTocEY9sU2GmREKK",
+    "tracks": [
+      {
+        "id": "0FWNth71sgHoeDFjTxPGSc",
+        "name": "Agresivo Funk",
+        "trackNumber": 1,
+        "duration": 97120,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0FWNth71sgHoeDFjTxPGSc"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:51.576Z"
+  },
+  {
+    "id": "mlhs6tkx392n0y01vzs",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "2HiEbcHIQ8toqHzqABRoFG",
+    "name": "Phonk Odyssey",
+    "type": "single",
+    "releaseDate": "2024-01-28",
+    "totalTracks": 5,
+    "image": "https://i.scdn.co/image/ab67616d0000b273053635969594b2840ae90cb7",
+    "spotifyUrl": "https://open.spotify.com/album/2HiEbcHIQ8toqHzqABRoFG",
+    "tracks": [
+      {
+        "id": "1ACSK6wJndKwb9EneuW62I",
+        "name": "Rage Phonk",
+        "trackNumber": 1,
+        "duration": 106900,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1ACSK6wJndKwb9EneuW62I"
+      },
+      {
+        "id": "0AOuUdRd8wl5bVMj9knhij",
+        "name": "Hypnosis",
+        "trackNumber": 2,
+        "duration": 105070,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0AOuUdRd8wl5bVMj9knhij"
+      },
+      {
+        "id": "4w1JRzUtG2wnEVHeFIllJ1",
+        "name": "Alluvion",
+        "trackNumber": 3,
+        "duration": 155130,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4w1JRzUtG2wnEVHeFIllJ1"
+      },
+      {
+        "id": "1tgSZxay1iwKuCnMPZdlHO",
+        "name": "Fxcked Up",
+        "trackNumber": 4,
+        "duration": 185080,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1tgSZxay1iwKuCnMPZdlHO"
+      },
+      {
+        "id": "73jJz51UAq6rZCc8HIva0v",
+        "name": "Ninth Dimension",
+        "trackNumber": 5,
+        "duration": 144310,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/73jJz51UAq6rZCc8HIva0v"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:51.681Z"
+  },
+  {
+    "id": "mlhs6tnx76z4l0k0knn",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "1Oi5KYgduaUNlImLbIW0sF",
+    "name": "Street Bitches",
+    "type": "single",
+    "releaseDate": "2023-01-18",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2737fa1b519e8e3207925e7ae8f",
+    "spotifyUrl": "https://open.spotify.com/album/1Oi5KYgduaUNlImLbIW0sF",
+    "tracks": [
+      {
+        "id": "0xGkKfwFFog4i6WY9cDKxN",
+        "name": "Street Bitches",
+        "trackNumber": 1,
+        "duration": 121037,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0xGkKfwFFog4i6WY9cDKxN"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:51.789Z"
+  },
+  {
+    "id": "mlhs6tqkn53c20105a",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "2IUIn1OFs3Go7Ouo1oECS1",
+    "name": "104.6 Sky Fm",
+    "type": "single",
+    "releaseDate": "2023-01-13",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2732cedddff80022354b6242721",
+    "spotifyUrl": "https://open.spotify.com/album/2IUIn1OFs3Go7Ouo1oECS1",
+    "tracks": [
+      {
+        "id": "5rl2OIKREksQGxwZCGo3Rf",
+        "name": "104.6 Sky Fm",
+        "trackNumber": 1,
+        "duration": 237700,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5rl2OIKREksQGxwZCGo3Rf"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:51.884Z"
+  },
+  {
+    "id": "mlhs6ttjzfaelzl1s8b",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "3mpMq5W9own1BXn103LEEM",
+    "name": "Dusk Till Dawn",
+    "type": "single",
+    "releaseDate": "2021-03-18",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27399cb9dcf2a713584e62134e4",
+    "spotifyUrl": "https://open.spotify.com/album/3mpMq5W9own1BXn103LEEM",
+    "tracks": [
+      {
+        "id": "3qtNlZfe5RwufQhXEQHYFC",
+        "name": "Dusk Till Dawn",
+        "trackNumber": 1,
+        "duration": 137044,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3qtNlZfe5RwufQhXEQHYFC"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:51.991Z"
+  },
+  {
+    "id": "mlhs6twa1bahleemwja",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "1XAb1AbRo6swz5ySAK2Kzm",
+    "name": "Loving You Is a Losing Game",
+    "type": "single",
+    "releaseDate": "2021-03-04",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273d9bcdc5dd813d35520008218",
+    "spotifyUrl": "https://open.spotify.com/album/1XAb1AbRo6swz5ySAK2Kzm",
+    "tracks": [
+      {
+        "id": "1jp0f2YWXO7KydXxErz0wG",
+        "name": "Loving You Is a Losing Game",
+        "trackNumber": 1,
+        "duration": 218427,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1jp0f2YWXO7KydXxErz0wG"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:52.090Z"
+  },
+  {
+    "id": "mlhs6tz4rw3hyihk5ec",
+    "artistId": "mlhs6s46npupxxndzs",
+    "artistName": "Regona",
+    "spotifyAlbumId": "4JzWTWkmipbuP6PxBYEErX",
+    "name": "Tek It (Slowed)",
+    "type": "single",
+    "releaseDate": "2020-08-13",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273362d31d2ca94a262b0f53532",
+    "spotifyUrl": "https://open.spotify.com/album/4JzWTWkmipbuP6PxBYEErX",
+    "tracks": [
+      {
+        "id": "0wSPELz8zBQ4156ogQDjbI",
+        "name": "Tek It - Slowed",
+        "trackNumber": 1,
+        "duration": 102980,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0wSPELz8zBQ4156ogQDjbI"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:52.192Z"
+  },
+  {
+    "id": "mlhs6uc9u5zfon4v208",
+    "artistId": "mlhs6u54aip8gnehvug",
+    "artistName": "Aurval",
+    "spotifyAlbumId": "5hGt9a2ad7UUsBOWiz0ugX",
+    "name": "lost in yesterday",
+    "type": "single",
+    "releaseDate": "2025-08-26",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273e3ea1401213f97492a825fdd",
+    "spotifyUrl": "https://open.spotify.com/album/5hGt9a2ad7UUsBOWiz0ugX",
+    "tracks": [
+      {
+        "id": "72s4KiPO7HJ0wT5ww38nN0",
+        "name": "lost in yesterday",
+        "trackNumber": 1,
+        "duration": 342857,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/72s4KiPO7HJ0wT5ww38nN0"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:52.665Z"
+  },
+  {
+    "id": "mlhs6uf108bqw6u7i644",
+    "artistId": "mlhs6u54aip8gnehvug",
+    "artistName": "Aurval",
+    "spotifyAlbumId": "2eUj2SteccYVgfdFQ9H6TM",
+    "name": "after you left",
+    "type": "single",
+    "releaseDate": "2025-08-25",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2738c8aaf6e208c29b65a69a5a5",
+    "spotifyUrl": "https://open.spotify.com/album/2eUj2SteccYVgfdFQ9H6TM",
+    "tracks": [
+      {
+        "id": "3Ls2t3o8fMXbXZusA4rRGX",
+        "name": "after you left",
+        "trackNumber": 1,
+        "duration": 106666,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3Ls2t3o8fMXbXZusA4rRGX"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:52.765Z"
+  },
+  {
+    "id": "mlhs6uhxhorjpltuo8",
+    "artistId": "mlhs6u54aip8gnehvug",
+    "artistName": "Aurval",
+    "spotifyAlbumId": "51MiabkKoHVsruocg7rgfl",
+    "name": "AULOFT",
+    "type": "single",
+    "releaseDate": "2025-04-11",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2730582a78dcbb9541de19863a6",
+    "spotifyUrl": "https://open.spotify.com/album/51MiabkKoHVsruocg7rgfl",
+    "tracks": [
+      {
+        "id": "12McJywjJcGdsrOwj3BtFu",
+        "name": "AULOFT",
+        "trackNumber": 1,
+        "duration": 153540,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/12McJywjJcGdsrOwj3BtFu"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:52.869Z"
+  },
+  {
+    "id": "mlhs6ukqniejs8hr14i",
+    "artistId": "mlhs6u54aip8gnehvug",
+    "artistName": "Aurval",
+    "spotifyAlbumId": "5xcfE7aW8ywzvakNTSIq9z",
+    "name": "Ciruela",
+    "type": "single",
+    "releaseDate": "2024-09-06",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2738adbb3ee43f8b10e821856ac",
+    "spotifyUrl": "https://open.spotify.com/album/5xcfE7aW8ywzvakNTSIq9z",
+    "tracks": [
+      {
+        "id": "2pB6xR13deiJGNUJM6968U",
+        "name": "Ciruela",
+        "trackNumber": 1,
+        "duration": 108200,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2pB6xR13deiJGNUJM6968U"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:52.970Z"
+  },
+  {
+    "id": "mlhs6unte8t954qpy75",
+    "artistId": "mlhs6u54aip8gnehvug",
+    "artistName": "Aurval",
+    "spotifyAlbumId": "3g5Bc8dT9zp7T40gi0fPa1",
+    "name": "Sky High",
+    "type": "single",
+    "releaseDate": "2019-08-12",
+    "totalTracks": 4,
+    "image": "https://i.scdn.co/image/ab67616d0000b27395ee42da7af94e2565e38539",
+    "spotifyUrl": "https://open.spotify.com/album/3g5Bc8dT9zp7T40gi0fPa1",
+    "tracks": [
+      {
+        "id": "2CD4oG1GtRIR7tDy5tIGtq",
+        "name": "Sky High",
+        "trackNumber": 1,
+        "duration": 104200,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2CD4oG1GtRIR7tDy5tIGtq"
+      },
+      {
+        "id": "609OeSHHW7VOmKmlWtFf75",
+        "name": "Tokyo",
+        "trackNumber": 2,
+        "duration": 167858,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/609OeSHHW7VOmKmlWtFf75"
+      },
+      {
+        "id": "0qEEXzYe7OMelHYhRZ3AEu",
+        "name": "Thinking Back",
+        "trackNumber": 3,
+        "duration": 162470,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0qEEXzYe7OMelHYhRZ3AEu"
+      },
+      {
+        "id": "1Ob7DNcZwKk1gOxAYacJxM",
+        "name": "Jonas Hechmann Geil",
+        "trackNumber": 4,
+        "duration": 167858,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1Ob7DNcZwKk1gOxAYacJxM"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:53.081Z"
+  },
+  {
+    "id": "mlhs6uqoqbtr5qx5o5",
+    "artistId": "mlhs6u54aip8gnehvug",
+    "artistName": "Aurval",
+    "spotifyAlbumId": "3wxyslJ4sYM2VFYupEGdGf",
+    "name": "Bloom",
+    "type": "single",
+    "releaseDate": "2019-07-26",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273ffbbbf94246787819b82de7d",
+    "spotifyUrl": "https://open.spotify.com/album/3wxyslJ4sYM2VFYupEGdGf",
+    "tracks": [
+      {
+        "id": "3oyoY1Lmi28gzQH3xEWwFE",
+        "name": "Bloom",
+        "trackNumber": 1,
+        "duration": 174730,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3oyoY1Lmi28gzQH3xEWwFE"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:53.184Z"
+  },
+  {
+    "id": "mlhs6utporz3iejv0x",
+    "artistId": "mlhs6u54aip8gnehvug",
+    "artistName": "Aurval",
+    "spotifyAlbumId": "39RI0kC7pFlcUE4DPAdiGW",
+    "name": "Voyager",
+    "type": "single",
+    "releaseDate": "2018-01-18",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27387b41ac94b8e0a8da359a582",
+    "spotifyUrl": "https://open.spotify.com/album/39RI0kC7pFlcUE4DPAdiGW",
+    "tracks": [
+      {
+        "id": "6AEDz2OoVNHcuotH0jKm97",
+        "name": "Voyager",
+        "trackNumber": 1,
+        "duration": 364606,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6AEDz2OoVNHcuotH0jKm97"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:53.293Z"
+  },
+  {
+    "id": "mlhs6uwyea2jpurgmpa",
+    "artistId": "mlhs6u54aip8gnehvug",
+    "artistName": "Aurval",
+    "spotifyAlbumId": "5PfPEeF45ABt11CcR0E9YD",
+    "name": "Pastillas",
+    "type": "single",
+    "releaseDate": "2017-12-09",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273204ec1c55e4e81d1b8b27270",
+    "spotifyUrl": "https://open.spotify.com/album/5PfPEeF45ABt11CcR0E9YD",
+    "tracks": [
+      {
+        "id": "3k6DcJeplUwqM9wzX6Zia5",
+        "name": "Pastillas",
+        "trackNumber": 1,
+        "duration": 116900,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3k6DcJeplUwqM9wzX6Zia5"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:53.410Z"
+  },
+  {
+    "id": "mlhs6vaojsjhp1xqp4",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "5Q6PATHUo24S4Qqs2ciIEb",
+    "name": "Fresh Squeezed",
+    "type": "album",
+    "releaseDate": "2016-11-20",
+    "totalTracks": 11,
+    "image": "https://i.scdn.co/image/ab67616d0000b2731185989516d491201813bdf2",
+    "spotifyUrl": "https://open.spotify.com/album/5Q6PATHUo24S4Qqs2ciIEb",
+    "tracks": [
+      {
+        "id": "6e3wFUj0DpAjsYe0Xt8YAO",
+        "name": "Hooplah",
+        "trackNumber": 1,
+        "duration": 178004,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6e3wFUj0DpAjsYe0Xt8YAO"
+      },
+      {
+        "id": "1OXEHJvslPK6iShzp9KBtf",
+        "name": "Heyo",
+        "trackNumber": 2,
+        "duration": 184180,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1OXEHJvslPK6iShzp9KBtf"
+      },
+      {
+        "id": "41ggt4s0vSAWKxAlJJVjbu",
+        "name": "Alright",
+        "trackNumber": 3,
+        "duration": 137451,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/41ggt4s0vSAWKxAlJJVjbu"
+      },
+      {
+        "id": "49E8wJfqfV2e5s4hl24mlz",
+        "name": "Moonbeams",
+        "trackNumber": 4,
+        "duration": 202935,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/49E8wJfqfV2e5s4hl24mlz"
+      },
+      {
+        "id": "2OcHCcNsNodY004ccBfIuY",
+        "name": "Blasé",
+        "trackNumber": 5,
+        "duration": 174542,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2OcHCcNsNodY004ccBfIuY"
+      },
+      {
+        "id": "5u0yXB6Dt5MMOsFUnBjSaW",
+        "name": "Marigold",
+        "trackNumber": 6,
+        "duration": 123024,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5u0yXB6Dt5MMOsFUnBjSaW"
+      },
+      {
+        "id": "3oGg7Y4ryE49TBJ9kCDo9C",
+        "name": "Bounds",
+        "trackNumber": 7,
+        "duration": 161960,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3oGg7Y4ryE49TBJ9kCDo9C"
+      },
+      {
+        "id": "43h8Usm2IsGnF9IOX7s9vo",
+        "name": "Another Day",
+        "trackNumber": 8,
+        "duration": 181347,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/43h8Usm2IsGnF9IOX7s9vo"
+      },
+      {
+        "id": "3teUqDrefYRjJjQnu21Oiy",
+        "name": "Burnt Shake",
+        "trackNumber": 9,
+        "duration": 88304,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3teUqDrefYRjJjQnu21Oiy"
+      },
+      {
+        "id": "0hx6s3UiuqIsJHY4yyQY6k",
+        "name": "Jovial",
+        "trackNumber": 10,
+        "duration": 142727,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0hx6s3UiuqIsJHY4yyQY6k"
+      },
+      {
+        "id": "4ZzBi91Xk04rUtS4eqjF3S",
+        "name": "Blue",
+        "trackNumber": 11,
+        "duration": 99872,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4ZzBi91Xk04rUtS4eqjF3S"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:53.904Z"
+  },
+  {
+    "id": "mlhs6vfhn5fo9dwmzhc",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "1I1iWYXvqHmwJ5akzOwN5u",
+    "name": "Roi (Instrumental)",
+    "type": "single",
+    "releaseDate": "2025-09-28",
+    "totalTracks": 4,
+    "image": "https://i.scdn.co/image/ab67616d0000b273924f67f17ae4451ac50ad1e3",
+    "spotifyUrl": "https://open.spotify.com/album/1I1iWYXvqHmwJ5akzOwN5u",
+    "tracks": [
+      {
+        "id": "7o6EpM2F925bGhscDoudxt",
+        "name": "Roi - Instrumental",
+        "trackNumber": 1,
+        "duration": 88978,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7o6EpM2F925bGhscDoudxt"
+      },
+      {
+        "id": "3j5L6TK6323jqPAAsqMU2h",
+        "name": "Roi - Instrumental Slowed",
+        "trackNumber": 2,
+        "duration": 111222,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3j5L6TK6323jqPAAsqMU2h"
+      },
+      {
+        "id": "1z6iYtVZEurIw0vuJL3e30",
+        "name": "Roi - Instrumental Sped Up",
+        "trackNumber": 3,
+        "duration": 74148,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1z6iYtVZEurIw0vuJL3e30"
+      },
+      {
+        "id": "0otQHqRaTH4AflbN7ueyIe",
+        "name": "Roi - Instrumental Super Slowed",
+        "trackNumber": 4,
+        "duration": 127112,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0otQHqRaTH4AflbN7ueyIe"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:54.077Z"
+  },
+  {
+    "id": "mlhs6vlg1tmlk4642v9",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "4dAOgvpdpUihMpYAXxNYac",
+    "name": "Kids (Instrumental)",
+    "type": "single",
+    "releaseDate": "2025-09-28",
+    "totalTracks": 4,
+    "image": "https://i.scdn.co/image/ab67616d0000b2735d7b13fabe9fd1f5b541dab7",
+    "spotifyUrl": "https://open.spotify.com/album/4dAOgvpdpUihMpYAXxNYac",
+    "tracks": [
+      {
+        "id": "1iws43mNTrdNkK6LKHC4O4",
+        "name": "Kids - Instrumental",
+        "trackNumber": 1,
+        "duration": 110052,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1iws43mNTrdNkK6LKHC4O4"
+      },
+      {
+        "id": "20Mw6rRIGU4LuD9L5x1zig",
+        "name": "Kids - Instrumental Slowed",
+        "trackNumber": 2,
+        "duration": 137566,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/20Mw6rRIGU4LuD9L5x1zig"
+      },
+      {
+        "id": "5v0q0IEjBvHWdmEmokFsS4",
+        "name": "Kids - Instrumental Sped Up",
+        "trackNumber": 3,
+        "duration": 91710,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5v0q0IEjBvHWdmEmokFsS4"
+      },
+      {
+        "id": "4WjtNxNepb10tRqATX80jc",
+        "name": "Kids - Instrumental Super Slowed",
+        "trackNumber": 4,
+        "duration": 157218,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4WjtNxNepb10tRqATX80jc"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:54.292Z"
+  },
+  {
+    "id": "mlhs6voissz01t7tezf",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "0BXGuyp8J5PHim9A5cYwRO",
+    "name": "Living Life In The Night",
+    "type": "single",
+    "releaseDate": "2025-08-25",
+    "totalTracks": 2,
+    "image": "https://i.scdn.co/image/ab67616d0000b27352bcc4d5c9ecd67c6a65fb26",
+    "spotifyUrl": "https://open.spotify.com/album/0BXGuyp8J5PHim9A5cYwRO",
+    "tracks": [
+      {
+        "id": "7MF30WXvuWd6Wlvs0lIRkH",
+        "name": "Living Life In The Night - Slowed",
+        "trackNumber": 1,
+        "duration": 130960,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7MF30WXvuWd6Wlvs0lIRkH"
+      },
+      {
+        "id": "5TNWEYH5IKzXRPdIYz6Ydt",
+        "name": "Living Life In The Night - Sped Up",
+        "trackNumber": 2,
+        "duration": 87307,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5TNWEYH5IKzXRPdIYz6Ydt"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:54.402Z"
+  },
+  {
+    "id": "mlhs6vrfbjxswjg5zo",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "2w5u0RNrjTTZ0WexDN4amn",
+    "name": "Dark Horse",
+    "type": "single",
+    "releaseDate": "2025-08-07",
+    "totalTracks": 3,
+    "image": "https://i.scdn.co/image/ab67616d0000b273537fdf58b766156d992e5c13",
+    "spotifyUrl": "https://open.spotify.com/album/2w5u0RNrjTTZ0WexDN4amn",
+    "tracks": [
+      {
+        "id": "1mZpWMqpaC6rAmhQD0srPn",
+        "name": "Dark Horse",
+        "trackNumber": 1,
+        "duration": 214064,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1mZpWMqpaC6rAmhQD0srPn"
+      },
+      {
+        "id": "5NF2S8Pmy4kKQkhzeiSZPF",
+        "name": "Dark Horse - Slowed",
+        "trackNumber": 2,
+        "duration": 267580,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5NF2S8Pmy4kKQkhzeiSZPF"
+      },
+      {
+        "id": "5S6z46jJ4RYwrDBU2hWtLB",
+        "name": "Dark Horse - Sped Up",
+        "trackNumber": 3,
+        "duration": 180020,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5S6z46jJ4RYwrDBU2hWtLB"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:54.507Z"
+  },
+  {
+    "id": "mlhs6vud4loj4ocn0fx",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "1vQ2POxiuDpWQT8aqpb6Nh",
+    "name": "All I Need",
+    "type": "single",
+    "releaseDate": "2025-08-07",
+    "totalTracks": 3,
+    "image": "https://i.scdn.co/image/ab67616d0000b273ef0db3e008d573e568f97338",
+    "spotifyUrl": "https://open.spotify.com/album/1vQ2POxiuDpWQT8aqpb6Nh",
+    "tracks": [
+      {
+        "id": "6ZScA6XLboQgY0j9ilvS0E",
+        "name": "All I Need",
+        "trackNumber": 1,
+        "duration": 238095,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6ZScA6XLboQgY0j9ilvS0E"
+      },
+      {
+        "id": "4IwlMPWWlFAfWclgOrc1Iv",
+        "name": "All I Need - Slowed",
+        "trackNumber": 2,
+        "duration": 297619,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4IwlMPWWlFAfWclgOrc1Iv"
+      },
+      {
+        "id": "06qrnXGEwKMRwwC3E2OrOq",
+        "name": "All I Need - Sped Up",
+        "trackNumber": 3,
+        "duration": 198412,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/06qrnXGEwKMRwwC3E2OrOq"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:54.613Z"
+  },
+  {
+    "id": "mlhs6vyjg2dxufug7l",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "6T8w54CfCGDidOfDA8Pmkm",
+    "name": "golden hour",
+    "type": "single",
+    "releaseDate": "2025-08-06",
+    "totalTracks": 3,
+    "image": "https://i.scdn.co/image/ab67616d0000b2730d35b4c63c642795bcae10b5",
+    "spotifyUrl": "https://open.spotify.com/album/6T8w54CfCGDidOfDA8Pmkm",
+    "tracks": [
+      {
+        "id": "6x39aYvJJparC3MxvGJb1g",
+        "name": "golden hour",
+        "trackNumber": 1,
+        "duration": 190812,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6x39aYvJJparC3MxvGJb1g"
+      },
+      {
+        "id": "7jyiIHEsE9VUYa5ZyNAyq7",
+        "name": "golden hour - slowed",
+        "trackNumber": 2,
+        "duration": 238515,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7jyiIHEsE9VUYa5ZyNAyq7"
+      },
+      {
+        "id": "2PFmcdue1HLuwSTYuYpkU8",
+        "name": "golden hour - sped up",
+        "trackNumber": 3,
+        "duration": 159010,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2PFmcdue1HLuwSTYuYpkU8"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:54.763Z"
+  },
+  {
+    "id": "mlhs6w1m0p57tm2matpb",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "2F1glcDjQMu19smMxjiggh",
+    "name": "Runaway",
+    "type": "single",
+    "releaseDate": "2025-08-06",
+    "totalTracks": 3,
+    "image": "https://i.scdn.co/image/ab67616d0000b273e868ee2a9d6a50208d3280f1",
+    "spotifyUrl": "https://open.spotify.com/album/2F1glcDjQMu19smMxjiggh",
+    "tracks": [
+      {
+        "id": "5QY5SLWcEjdFZ4ii8FA9AC",
+        "name": "Runaway",
+        "trackNumber": 1,
+        "duration": 242913,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5QY5SLWcEjdFZ4ii8FA9AC"
+      },
+      {
+        "id": "3L1yIF89UM005vIlgSW346",
+        "name": "Runaway - Slowed",
+        "trackNumber": 2,
+        "duration": 303648,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3L1yIF89UM005vIlgSW346"
+      },
+      {
+        "id": "3sTG2qozUyv8nqpWK7NSSQ",
+        "name": "Runaway - Sped Up",
+        "trackNumber": 3,
+        "duration": 202450,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3sTG2qozUyv8nqpWK7NSSQ"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:54.874Z"
+  },
+  {
+    "id": "mlhs6w4h58l84r4s4oo",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "2NoHKGAyyAqIhT1zroAk3m",
+    "name": "Infinity",
+    "type": "single",
+    "releaseDate": "2025-08-06",
+    "totalTracks": 3,
+    "image": "https://i.scdn.co/image/ab67616d0000b2733d39fb09f6ad0ace295f78bd",
+    "spotifyUrl": "https://open.spotify.com/album/2NoHKGAyyAqIhT1zroAk3m",
+    "tracks": [
+      {
+        "id": "2k49wbO6DpMsLAFauzjnlJ",
+        "name": "Infinity",
+        "trackNumber": 1,
+        "duration": 156733,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2k49wbO6DpMsLAFauzjnlJ"
+      },
+      {
+        "id": "4Yd3TgWEgsYvoAEl4zCjNm",
+        "name": "Infinity - Slowed",
+        "trackNumber": 2,
+        "duration": 196113,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4Yd3TgWEgsYvoAEl4zCjNm"
+      },
+      {
+        "id": "3gHsxduj3s5YIUcm3imeCn",
+        "name": "Infinity - Sped Up",
+        "trackNumber": 3,
+        "duration": 130743,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3gHsxduj3s5YIUcm3imeCn"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:54.977Z"
+  },
+  {
+    "id": "mlhs6w7mtrn08fs2kqe",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "0kYzLRiZeqNoTo0iuPyOnj",
+    "name": "nope your too late i already died (slowed)",
+    "type": "single",
+    "releaseDate": "2025-07-25",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2736d8737af7ddd4d3691ed8003",
+    "spotifyUrl": "https://open.spotify.com/album/0kYzLRiZeqNoTo0iuPyOnj",
+    "tracks": [
+      {
+        "id": "3jS4iSABGOSsFBv6mupqpi",
+        "name": "nope your too late i already died - slowed",
+        "trackNumber": 1,
+        "duration": 82401,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3jS4iSABGOSsFBv6mupqpi"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:55.090Z"
+  },
+  {
+    "id": "mlhs6wb5dboq3pruod",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "07UP5CHGtliwig0cgU1k4t",
+    "name": "Washing Machine Heart",
+    "type": "single",
+    "releaseDate": "2025-07-25",
+    "totalTracks": 3,
+    "image": "https://i.scdn.co/image/ab67616d0000b27391970e476941e84042503e6b",
+    "spotifyUrl": "https://open.spotify.com/album/07UP5CHGtliwig0cgU1k4t",
+    "tracks": [
+      {
+        "id": "0LiPB0RmvAFmj30JUZWHzB",
+        "name": "Washing Machine Heart",
+        "trackNumber": 1,
+        "duration": 142908,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0LiPB0RmvAFmj30JUZWHzB"
+      },
+      {
+        "id": "3qfGhk2xoraBD05c6p7Tyu",
+        "name": "Washing Machine Heart - Slowed",
+        "trackNumber": 2,
+        "duration": 161608,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3qfGhk2xoraBD05c6p7Tyu"
+      },
+      {
+        "id": "721QLlgQMjOGfcqtDwPEdb",
+        "name": "Washing Machine Heart - Sped Up",
+        "trackNumber": 3,
+        "duration": 108008,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/721QLlgQMjOGfcqtDwPEdb"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:55.217Z"
+  },
+  {
+    "id": "mlhs6whq8zqx65ieq66",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "5dXwqS6DkzNJVTOIPQeHC0",
+    "name": "More More (Dazzlin' Darlin)",
+    "type": "single",
+    "releaseDate": "2025-07-25",
+    "totalTracks": 3,
+    "image": "https://i.scdn.co/image/ab67616d0000b2737b8b1366cfd4c47134179589",
+    "spotifyUrl": "https://open.spotify.com/album/5dXwqS6DkzNJVTOIPQeHC0",
+    "tracks": [
+      {
+        "id": "5lF6tbqQknBYIF3tkzp4Ww",
+        "name": "More More (Dazzlin' Darlin)",
+        "trackNumber": 1,
+        "duration": 139560,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5lF6tbqQknBYIF3tkzp4Ww"
+      },
+      {
+        "id": "5Ty40Qcic7r8ys64p3Vp7R",
+        "name": "More More (Dazzlin' Darlin) - Slowed",
+        "trackNumber": 2,
+        "duration": 174450,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5Ty40Qcic7r8ys64p3Vp7R"
+      },
+      {
+        "id": "3m8p5JRQ8CD4ST4ryo518Q",
+        "name": "More More (Dazzlin' Darlin) - Sped Up",
+        "trackNumber": 3,
+        "duration": 116300,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3m8p5JRQ8CD4ST4ryo518Q"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:55.454Z"
+  },
+  {
+    "id": "mlhs6wlbq572xym9p19",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "3OStesHWOOnz85uGILxgVw",
+    "name": "Lights Are On",
+    "type": "single",
+    "releaseDate": "2025-07-25",
+    "totalTracks": 3,
+    "image": "https://i.scdn.co/image/ab67616d0000b273632428f37d55a333a98ecfca",
+    "spotifyUrl": "https://open.spotify.com/album/3OStesHWOOnz85uGILxgVw",
+    "tracks": [
+      {
+        "id": "7joQCL8QlJBWGuvrrnlq8Z",
+        "name": "Lights Are On",
+        "trackNumber": 1,
+        "duration": 200682,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7joQCL8QlJBWGuvrrnlq8Z"
+      },
+      {
+        "id": "0xsS7vYYK9rQZlxdDbk0Fl",
+        "name": "Lights Are On - Slowed",
+        "trackNumber": 2,
+        "duration": 250853,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0xsS7vYYK9rQZlxdDbk0Fl"
+      },
+      {
+        "id": "2cpOMv3wj95m66Fg5UaCu1",
+        "name": "Lights Are On - Sped Up",
+        "trackNumber": 3,
+        "duration": 167235,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2cpOMv3wj95m66Fg5UaCu1"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:55.583Z"
+  },
+  {
+    "id": "mlhs6wo6zcllhrj00q",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "23ljaiirL4rZ1G7x9cR1u4",
+    "name": "Sweather Weather (Slowed)",
+    "type": "single",
+    "releaseDate": "2025-07-23",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273cdc104788d2b7bc65da11472",
+    "spotifyUrl": "https://open.spotify.com/album/23ljaiirL4rZ1G7x9cR1u4",
+    "tracks": [
+      {
+        "id": "4Zqk5hB9YjXZlPgO9MeaL8",
+        "name": "Sweather Weather - Slowed",
+        "trackNumber": 1,
+        "duration": 273950,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4Zqk5hB9YjXZlPgO9MeaL8"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:55.686Z"
+  },
+  {
+    "id": "mlhs6wsq0qyf9bepzobd",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "6jj3JgBVKiMYc9xxXs3HAM",
+    "name": "Outside",
+    "type": "single",
+    "releaseDate": "2025-07-18",
+    "totalTracks": 3,
+    "image": "https://i.scdn.co/image/ab67616d0000b27368bb1a8e372909afb60e101f",
+    "spotifyUrl": "https://open.spotify.com/album/6jj3JgBVKiMYc9xxXs3HAM",
+    "tracks": [
+      {
+        "id": "1CU2L1u3vS5MTmJc9Bw1nl",
+        "name": "Outside",
+        "trackNumber": 1,
+        "duration": 130179,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1CU2L1u3vS5MTmJc9Bw1nl"
+      },
+      {
+        "id": "3zQszGNPRWodpiSFpRGyv9",
+        "name": "Outside - Slowed",
+        "trackNumber": 2,
+        "duration": 162724,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3zQszGNPRWodpiSFpRGyv9"
+      },
+      {
+        "id": "6FxQWulUNYnxwnQbQDWoji",
+        "name": "Outside - Sped Up",
+        "trackNumber": 3,
+        "duration": 108483,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6FxQWulUNYnxwnQbQDWoji"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:55.850Z"
+  },
+  {
+    "id": "mlhs6ww3rui98j7oslb",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "1wbXS6fudugPNrrohEaSzO",
+    "name": "I Lost My Mind",
+    "type": "single",
+    "releaseDate": "2025-07-18",
+    "totalTracks": 3,
+    "image": "https://i.scdn.co/image/ab67616d0000b27368dae022c54bc02e2453d7ea",
+    "spotifyUrl": "https://open.spotify.com/album/1wbXS6fudugPNrrohEaSzO",
+    "tracks": [
+      {
+        "id": "5AiUSlV4m9cEiqJ4jtLazK",
+        "name": "I Lost My Mind",
+        "trackNumber": 1,
+        "duration": 146999,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5AiUSlV4m9cEiqJ4jtLazK"
+      },
+      {
+        "id": "4XZikUsUCz4Ue5yj93sN4L",
+        "name": "I Lost My Mind - Slowed",
+        "trackNumber": 2,
+        "duration": 183749,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4XZikUsUCz4Ue5yj93sN4L"
+      },
+      {
+        "id": "7w0u0TDFQEN17mAXK49lFw",
+        "name": "I Lost My Mind - Sped Up",
+        "trackNumber": 3,
+        "duration": 122499,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7w0u0TDFQEN17mAXK49lFw"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:55.971Z"
+  },
+  {
+    "id": "mlhs6wzwtg997zxtdjj",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "5JVrLuvVIGJPllBWhG35tr",
+    "name": "Into Your Arms (Slowed)",
+    "type": "single",
+    "releaseDate": "2022-06-29",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273d35579233563a701452ce60d",
+    "spotifyUrl": "https://open.spotify.com/album/5JVrLuvVIGJPllBWhG35tr",
+    "tracks": [
+      {
+        "id": "7c8J2OoDFVqW0htdjJG2cI",
+        "name": "Into Your Arms - Slowed",
+        "trackNumber": 1,
+        "duration": 169823,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7c8J2OoDFVqW0htdjJG2cI"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:56.108Z"
+  },
+  {
+    "id": "mlhs6x2szj636jwelko",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "0BYZRBZvcHRGzjF9N5sINh",
+    "name": "Space Song (Slowed)",
+    "type": "single",
+    "releaseDate": "2022-02-24",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273c4f8ec1e655c65e7d939d14a",
+    "spotifyUrl": "https://open.spotify.com/album/0BYZRBZvcHRGzjF9N5sINh",
+    "tracks": [
+      {
+        "id": "3zkLsg1hcrY4ph3SMqE4GQ",
+        "name": "Space Song - Slowed",
+        "trackNumber": 1,
+        "duration": 245734,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3zkLsg1hcrY4ph3SMqE4GQ"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:56.212Z"
+  },
+  {
+    "id": "mlhs6x5gzoxq6vw2wof",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "6G1uedKkeyW5zXUajHiMVT",
+    "name": "Dude She's Just Not Into You",
+    "type": "single",
+    "releaseDate": "2021-08-01",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2737118dec8df0c7ef29f5ddc1f",
+    "spotifyUrl": "https://open.spotify.com/album/6G1uedKkeyW5zXUajHiMVT",
+    "tracks": [
+      {
+        "id": "6wkoePXdTkMgcESYkmSW1W",
+        "name": "Dude She's Just Not Into You",
+        "trackNumber": 1,
+        "duration": 187129,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6wkoePXdTkMgcESYkmSW1W"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:56.308Z"
+  },
+  {
+    "id": "mlhs6x863qx71hffhxm",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "32lyxH9aZNVE5wnLw9SZwq",
+    "name": "Happier X Here's Your Perfect",
+    "type": "single",
+    "releaseDate": "2021-07-08",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273fce3012fa4869570f5d1d9d1",
+    "spotifyUrl": "https://open.spotify.com/album/32lyxH9aZNVE5wnLw9SZwq",
+    "tracks": [
+      {
+        "id": "298qaj3WmoCSW9XnEIe0Uo",
+        "name": "Happier X Here's Your Perfect",
+        "trackNumber": 1,
+        "duration": 123534,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/298qaj3WmoCSW9XnEIe0Uo"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:56.406Z"
+  },
+  {
+    "id": "mlhs6xb27bngco8l965",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "4dA1sDdgRhMs5yhWyZTfFX",
+    "name": "Motive X Promiscuous",
+    "type": "single",
+    "releaseDate": "2021-02-25",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273a0c1c850efcb99ecf02852ea",
+    "spotifyUrl": "https://open.spotify.com/album/4dA1sDdgRhMs5yhWyZTfFX",
+    "tracks": [
+      {
+        "id": "2NLQvyNZxB7p3E6yT6OWNE",
+        "name": "Motive X Promiscuous",
+        "trackNumber": 1,
+        "duration": 180166,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2NLQvyNZxB7p3E6yT6OWNE"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:56.510Z"
+  },
+  {
+    "id": "mlhs6xffk9565q09dd",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "66AknERrfP5YFw3K91i0c6",
+    "name": "Mad At Disney",
+    "type": "single",
+    "releaseDate": "2021-01-24",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2739eb0fd231365c16d8e42bb41",
+    "spotifyUrl": "https://open.spotify.com/album/66AknERrfP5YFw3K91i0c6",
+    "tracks": [
+      {
+        "id": "4oXRznnSmELhYxo6UJG9xk",
+        "name": "Mad At Disney",
+        "trackNumber": 1,
+        "duration": 181472,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4oXRznnSmELhYxo6UJG9xk"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:56.667Z"
+  },
+  {
+    "id": "mlhs6xkk73p52umoz4k",
+    "artistId": "mlhs6v2n6fs0l9u8uw9",
+    "artistName": "Darven",
+    "spotifyAlbumId": "0O6NCvpqOwRsgcSDR7xsU0",
+    "name": "人類補完計画",
+    "type": "single",
+    "releaseDate": "2019-06-18",
+    "totalTracks": 2,
+    "image": "https://i.scdn.co/image/ab67616d0000b273a85d3888d207927e289e6fab",
+    "spotifyUrl": "https://open.spotify.com/album/0O6NCvpqOwRsgcSDR7xsU0",
+    "tracks": [
+      {
+        "id": "3jMw78w0eHoiN6QSzKNdEW",
+        "name": "alif",
+        "trackNumber": 1,
+        "duration": 171781,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3jMw78w0eHoiN6QSzKNdEW"
+      },
+      {
+        "id": "28AS13XpjAZ9gmyrzw7DdM",
+        "name": "stand alone complex",
+        "trackNumber": 2,
+        "duration": 211231,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/28AS13XpjAZ9gmyrzw7DdM"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:56.852Z"
+  },
+  {
+    "id": "mlhs6xwslog735a0i1f",
+    "artistId": "mlhs6xq1r4epir7cnik",
+    "artistName": "Badlans",
+    "spotifyAlbumId": "3Z76RN71mDYhJxSxQ1Nlvb",
+    "name": "Daydreams",
+    "type": "album",
+    "releaseDate": "2017-07-05",
+    "totalTracks": 10,
+    "image": "https://i.scdn.co/image/ab67616d0000b2734df91e1ec5f2ccf0bedba2cd",
+    "spotifyUrl": "https://open.spotify.com/album/3Z76RN71mDYhJxSxQ1Nlvb",
+    "tracks": [
+      {
+        "id": "2QCxrHJyuA9rsryKNWSORE",
+        "name": "Flowers",
+        "trackNumber": 1,
+        "duration": 142082,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2QCxrHJyuA9rsryKNWSORE"
+      },
+      {
+        "id": "5mH95uz0goNcfEup1p5jWq",
+        "name": "To the Moon",
+        "trackNumber": 2,
+        "duration": 51513,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5mH95uz0goNcfEup1p5jWq"
+      },
+      {
+        "id": "2g2UpgcfuOavjv1adTvzkR",
+        "name": "Sunrise",
+        "trackNumber": 3,
+        "duration": 100646,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2g2UpgcfuOavjv1adTvzkR"
+      },
+      {
+        "id": "4n368HeE3S2TKHSCKvbcHd",
+        "name": "Lost in Florence",
+        "trackNumber": 4,
+        "duration": 92392,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4n368HeE3S2TKHSCKvbcHd"
+      },
+      {
+        "id": "43PG5DTxysUqJCeWfbOMEM",
+        "name": "Easy Dreamer",
+        "trackNumber": 5,
+        "duration": 66500,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/43PG5DTxysUqJCeWfbOMEM"
+      },
+      {
+        "id": "7BYLgKHmq24hl7OnB9bey1",
+        "name": "Just a Dream",
+        "trackNumber": 6,
+        "duration": 115124,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7BYLgKHmq24hl7OnB9bey1"
+      },
+      {
+        "id": "1rOwV0gJ4qRHOyPr3eTUTI",
+        "name": "24/7",
+        "trackNumber": 7,
+        "duration": 134374,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1rOwV0gJ4qRHOyPr3eTUTI"
+      },
+      {
+        "id": "669tkP3OdE4Cg8EyuhEFqM",
+        "name": "Hypnosis",
+        "trackNumber": 8,
+        "duration": 64510,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/669tkP3OdE4Cg8EyuhEFqM"
+      },
+      {
+        "id": "7Ee13bZo3tum6aCV75w1ZV",
+        "name": "Nightmare",
+        "trackNumber": 9,
+        "duration": 124006,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7Ee13bZo3tum6aCV75w1ZV"
+      },
+      {
+        "id": "3gjDHnPq4fdg41huUx8FV5",
+        "name": "Selene",
+        "trackNumber": 10,
+        "duration": 65529,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3gjDHnPq4fdg41huUx8FV5"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:57.292Z"
+  },
+  {
+    "id": "mlhs6xzk9081jprgbt5",
+    "artistId": "mlhs6xq1r4epir7cnik",
+    "artistName": "Badlans",
+    "spotifyAlbumId": "7F7awe0FO2qGwFI52MSHMB",
+    "name": "the last time we spoke",
+    "type": "single",
+    "releaseDate": "2025-08-26",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273720e01c18df367c72312e50a",
+    "spotifyUrl": "https://open.spotify.com/album/7F7awe0FO2qGwFI52MSHMB",
+    "tracks": [
+      {
+        "id": "1uxsJ5E6ZMzeBRVnMO17o2",
+        "name": "the last time we spoke",
+        "trackNumber": 1,
+        "duration": 120405,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1uxsJ5E6ZMzeBRVnMO17o2"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:57.392Z"
+  },
+  {
+    "id": "mlhs6y2gsyr1myjqkl",
+    "artistId": "mlhs6xq1r4epir7cnik",
+    "artistName": "Badlans",
+    "spotifyAlbumId": "2Y42ZGcaHcdsBWsZRf6BIT",
+    "name": "when we were close",
+    "type": "single",
+    "releaseDate": "2025-08-25",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273c5ab986a6a7e3b5aa10a67e8",
+    "spotifyUrl": "https://open.spotify.com/album/2Y42ZGcaHcdsBWsZRf6BIT",
+    "tracks": [
+      {
+        "id": "42sk4uUpY2BeF1DksvKIml",
+        "name": "when we were close",
+        "trackNumber": 1,
+        "duration": 216000,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/42sk4uUpY2BeF1DksvKIml"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:57.496Z"
+  },
+  {
+    "id": "mlhs6y5nbhxw8pttobi",
+    "artistId": "mlhs6xq1r4epir7cnik",
+    "artistName": "Badlans",
+    "spotifyAlbumId": "47e3DMLoIdxSdM0GrfOUEZ",
+    "name": "Artemis",
+    "type": "single",
+    "releaseDate": "2020-06-14",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273afafd9da53b2bc6ce7a18bdf",
+    "spotifyUrl": "https://open.spotify.com/album/47e3DMLoIdxSdM0GrfOUEZ",
+    "tracks": [
+      {
+        "id": "43KHkDBTJDdnQqzMHFSPaQ",
+        "name": "Artemis",
+        "trackNumber": 1,
+        "duration": 163305,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/43KHkDBTJDdnQqzMHFSPaQ"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:57.611Z"
+  },
+  {
+    "id": "mlhs6y8etda64bfarws",
+    "artistId": "mlhs6xq1r4epir7cnik",
+    "artistName": "Badlans",
+    "spotifyAlbumId": "2NrclsTsBOztFS2fXldtp7",
+    "name": "Ice Cream",
+    "type": "single",
+    "releaseDate": "2020-05-30",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273b6f6994bf574b7d95db6a256",
+    "spotifyUrl": "https://open.spotify.com/album/2NrclsTsBOztFS2fXldtp7",
+    "tracks": [
+      {
+        "id": "5soKEuNusnaFrjng4NaaWA",
+        "name": "Ice Cream",
+        "trackNumber": 1,
+        "duration": 104559,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5soKEuNusnaFrjng4NaaWA"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:57.710Z"
+  },
+  {
+    "id": "mlhs6yckxp0idt6ku2",
+    "artistId": "mlhs6xq1r4epir7cnik",
+    "artistName": "Badlans",
+    "spotifyAlbumId": "6u9dKmDAerSMvo8i7D2pMe",
+    "name": "Order",
+    "type": "single",
+    "releaseDate": "2019-05-03",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27310397ef3cbea42392ecc1429",
+    "spotifyUrl": "https://open.spotify.com/album/6u9dKmDAerSMvo8i7D2pMe",
+    "tracks": [
+      {
+        "id": "6BJuxi2eowWEgYmaumCJFe",
+        "name": "Order",
+        "trackNumber": 1,
+        "duration": 200132,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6BJuxi2eowWEgYmaumCJFe"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:57.860Z"
+  },
+  {
+    "id": "mlhs6yoq6wrmkmc5jgt",
+    "artistId": "mlhs6yi4erhbqzrrx9",
+    "artistName": "Furge",
+    "spotifyAlbumId": "4EoKwCp5TqhMXjKU3Uhh5d",
+    "name": "the night we forgot",
+    "type": "single",
+    "releaseDate": "2025-08-27",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273f37a45f0d4b762ebc07fe150",
+    "spotifyUrl": "https://open.spotify.com/album/4EoKwCp5TqhMXjKU3Uhh5d",
+    "tracks": [
+      {
+        "id": "2EoeNTJoyyXpNv65X4tXkM",
+        "name": "the night we forgot",
+        "trackNumber": 1,
+        "duration": 164848,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2EoeNTJoyyXpNv65X4tXkM"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:58.298Z"
+  },
+  {
+    "id": "mlhs6ys61v45yyh2l37",
+    "artistId": "mlhs6yi4erhbqzrrx9",
+    "artistName": "Furge",
+    "spotifyAlbumId": "2Mk0Anb96LTBtCTm1BsYX3",
+    "name": "i miss everything",
+    "type": "single",
+    "releaseDate": "2025-08-26",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273dc7931b1aa2711b60f365a0e",
+    "spotifyUrl": "https://open.spotify.com/album/2Mk0Anb96LTBtCTm1BsYX3",
+    "tracks": [
+      {
+        "id": "4ZyrKiWLHC0Mkk2ilvvKTc",
+        "name": "i miss everything",
+        "trackNumber": 1,
+        "duration": 114223,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4ZyrKiWLHC0Mkk2ilvvKTc"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:58.422Z"
+  },
+  {
+    "id": "mlhs6yuyslxdo09uoot",
+    "artistId": "mlhs6yi4erhbqzrrx9",
+    "artistName": "Furge",
+    "spotifyAlbumId": "3VUB7pXxKxj6tPXOnAPVJn",
+    "name": "i still remember you",
+    "type": "single",
+    "releaseDate": "2025-08-25",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273693d2743b763548d865fb20c",
+    "spotifyUrl": "https://open.spotify.com/album/3VUB7pXxKxj6tPXOnAPVJn",
+    "tracks": [
+      {
+        "id": "4CKOjyFE0DAFREFLaiMJJM",
+        "name": "i still remember you",
+        "trackNumber": 1,
+        "duration": 114626,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4CKOjyFE0DAFREFLaiMJJM"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:58.522Z"
+  },
+  {
+    "id": "mlhs6yxxkn16z8ue51",
+    "artistId": "mlhs6yi4erhbqzrrx9",
+    "artistName": "Furge",
+    "spotifyAlbumId": "2Yf4CkAkzADe1NL21i2NHx",
+    "name": "goodbyes left unspoken",
+    "type": "single",
+    "releaseDate": "2025-03-08",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273ec46614d098b7526f8d486bd",
+    "spotifyUrl": "https://open.spotify.com/album/2Yf4CkAkzADe1NL21i2NHx",
+    "tracks": [
+      {
+        "id": "6lxVjJBdk6ClfYC45bCg2Y",
+        "name": "goodbyes left unspoken",
+        "trackNumber": 1,
+        "duration": 128218,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6lxVjJBdk6ClfYC45bCg2Y"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:58.629Z"
+  },
+  {
+    "id": "mlhs6z0zvx14u9bzu7n",
+    "artistId": "mlhs6yi4erhbqzrrx9",
+    "artistName": "Furge",
+    "spotifyAlbumId": "02uXXrtGPxxcoToGsPvz67",
+    "name": "Eternal",
+    "type": "single",
+    "releaseDate": "2018-09-17",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27390e1954d76ef2360313a64e1",
+    "spotifyUrl": "https://open.spotify.com/album/02uXXrtGPxxcoToGsPvz67",
+    "tracks": [
+      {
+        "id": "08ScREID8rv8k7hYLgIEHV",
+        "name": "Eternal",
+        "trackNumber": 1,
+        "duration": 136800,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/08ScREID8rv8k7hYLgIEHV"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:58.739Z"
+  },
+  {
+    "id": "mlhs6z3p9v5jpsiexha",
+    "artistId": "mlhs6yi4erhbqzrrx9",
+    "artistName": "Furge",
+    "spotifyAlbumId": "5nv1KgUlj3qi3qrDjOTnWf",
+    "name": "i'd do it all for you",
+    "type": "single",
+    "releaseDate": "2018-08-30",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2736e7512fd156fb44830282978",
+    "spotifyUrl": "https://open.spotify.com/album/5nv1KgUlj3qi3qrDjOTnWf",
+    "tracks": [
+      {
+        "id": "0FFcG9z2m815CrEue5EBEJ",
+        "name": "i'd do it all for you",
+        "trackNumber": 1,
+        "duration": 217422,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0FFcG9z2m815CrEue5EBEJ"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:58.837Z"
+  },
+  {
+    "id": "mlhs6z6ik6x7spczcem",
+    "artistId": "mlhs6yi4erhbqzrrx9",
+    "artistName": "Furge",
+    "spotifyAlbumId": "7lHzBU8lYqvpj71r8CDNF7",
+    "name": "Alone",
+    "type": "single",
+    "releaseDate": "2018-08-30",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27333fff55a62a616de04112873",
+    "spotifyUrl": "https://open.spotify.com/album/7lHzBU8lYqvpj71r8CDNF7",
+    "tracks": [
+      {
+        "id": "3XT6r3VLrxBAyho9pQtCbr",
+        "name": "Alone",
+        "trackNumber": 1,
+        "duration": 129219,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3XT6r3VLrxBAyho9pQtCbr"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:58.938Z"
+  },
+  {
+    "id": "mlhs6za12lbcrujazef",
+    "artistId": "mlhs6yi4erhbqzrrx9",
+    "artistName": "Furge",
+    "spotifyAlbumId": "3RdEJ747QRsIpkFDfwihjW",
+    "name": "This Time",
+    "type": "single",
+    "releaseDate": "2016-06-02",
+    "totalTracks": 4,
+    "image": "https://i.scdn.co/image/ab67616d0000b273f6eb144544c68e8b9db17db7",
+    "spotifyUrl": "https://open.spotify.com/album/3RdEJ747QRsIpkFDfwihjW",
+    "tracks": [
+      {
+        "id": "6EQxTbvAjYYcvJBEWHS83B",
+        "name": "I Stand Alone in This Empty Hall",
+        "trackNumber": 1,
+        "duration": 54468,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6EQxTbvAjYYcvJBEWHS83B"
+      },
+      {
+        "id": "3vRVdiUZN7Xm4Q0gKU2VzE",
+        "name": "Memories of Ourselves with Each Other",
+        "trackNumber": 2,
+        "duration": 79435,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3vRVdiUZN7Xm4Q0gKU2VzE"
+      },
+      {
+        "id": "3arObDTM1FvTkg0nm3PqqA",
+        "name": "HOGGININTHEGAME",
+        "trackNumber": 3,
+        "duration": 60000,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3arObDTM1FvTkg0nm3PqqA"
+      },
+      {
+        "id": "6WWemSXgCZQhMMjrC03QEc",
+        "name": "This Time",
+        "trackNumber": 4,
+        "duration": 94117,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6WWemSXgCZQhMMjrC03QEc"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:59.065Z"
+  },
+  {
+    "id": "mlhs6zd1u3878ogs3he",
+    "artistId": "mlhs6yi4erhbqzrrx9",
+    "artistName": "Furge",
+    "spotifyAlbumId": "6d9aA3zB1JGrTiBethxTLb",
+    "name": "beat tape 06",
+    "type": "single",
+    "releaseDate": "2016-02-01",
+    "totalTracks": 4,
+    "image": "https://i.scdn.co/image/ab67616d0000b2736a5f33de037984c347fca4ee",
+    "spotifyUrl": "https://open.spotify.com/album/6d9aA3zB1JGrTiBethxTLb",
+    "tracks": [
+      {
+        "id": "0DTJU89tHTH0HLXuKadaU4",
+        "name": "what does hiphop mean to you",
+        "trackNumber": 1,
+        "duration": 123425,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0DTJU89tHTH0HLXuKadaU4"
+      },
+      {
+        "id": "0sfBJThwJI1kID2GFuA0mV",
+        "name": "hold up",
+        "trackNumber": 2,
+        "duration": 126165,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0sfBJThwJI1kID2GFuA0mV"
+      },
+      {
+        "id": "6r9xDWKo3lFNwKo81v1F6D",
+        "name": "when I fall in luv",
+        "trackNumber": 3,
+        "duration": 138785,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6r9xDWKo3lFNwKo81v1F6D"
+      },
+      {
+        "id": "0ERpvW0ckgBiOZjIRXoFME",
+        "name": "monsoon",
+        "trackNumber": 4,
+        "duration": 147690,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0ERpvW0ckgBiOZjIRXoFME"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:59.173Z"
+  },
+  {
+    "id": "mlhs6zrr322ewhogk8k",
+    "artistId": "mlhs6zjotk1mk8e7egb",
+    "artistName": "Revora",
+    "spotifyAlbumId": "6Y9q3LtT39UEcwEGX6exbl",
+    "name": "In Space",
+    "type": "album",
+    "releaseDate": "2017-12-01",
+    "totalTracks": 8,
+    "image": "https://i.scdn.co/image/ab67616d0000b273c4386551682a37a62b94f3fc",
+    "spotifyUrl": "https://open.spotify.com/album/6Y9q3LtT39UEcwEGX6exbl",
+    "tracks": [
+      {
+        "id": "5a19JJbeokrVIlsc9Gw2Yv",
+        "name": "offtherecord",
+        "trackNumber": 1,
+        "duration": 176000,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5a19JJbeokrVIlsc9Gw2Yv"
+      },
+      {
+        "id": "3Dn1sCVD2TLpUn2kB2nGAb",
+        "name": "in space",
+        "trackNumber": 2,
+        "duration": 192000,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3Dn1sCVD2TLpUn2kB2nGAb"
+      },
+      {
+        "id": "1a9heVBUaJT9ZManIQE56W",
+        "name": "icey",
+        "trackNumber": 3,
+        "duration": 128000,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1a9heVBUaJT9ZManIQE56W"
+      },
+      {
+        "id": "5N193LOCnwAKYXp1qV9nAw",
+        "name": "kthxbye",
+        "trackNumber": 4,
+        "duration": 128000,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5N193LOCnwAKYXp1qV9nAw"
+      },
+      {
+        "id": "4uDjWPfXMadGqEMvBTakib",
+        "name": "coffee junt",
+        "trackNumber": 5,
+        "duration": 128385,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4uDjWPfXMadGqEMvBTakib"
+      },
+      {
+        "id": "3ofhrx0OnISm4eiKrFiQJO",
+        "name": "reflectns",
+        "trackNumber": 6,
+        "duration": 153000,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3ofhrx0OnISm4eiKrFiQJO"
+      },
+      {
+        "id": "6fOhvaTqafqblft8IJRMIi",
+        "name": "first pizza slice",
+        "trackNumber": 7,
+        "duration": 93000,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6fOhvaTqafqblft8IJRMIi"
+      },
+      {
+        "id": "2r3Xccf8TiajnBEeGJPTpl",
+        "name": "bruh",
+        "trackNumber": 8,
+        "duration": 111543,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2r3Xccf8TiajnBEeGJPTpl"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:59.703Z"
+  },
+  {
+    "id": "mlhs6zukcaxtdbsyz4w",
+    "artistId": "mlhs6zjotk1mk8e7egb",
+    "artistName": "Revora",
+    "spotifyAlbumId": "2yT0VPzPKAa67HC1mHz7g4",
+    "name": "FUNK COMIGO",
+    "type": "single",
+    "releaseDate": "2025-08-26",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273f40613a57d69f5d8d6c6ef57",
+    "spotifyUrl": "https://open.spotify.com/album/2yT0VPzPKAa67HC1mHz7g4",
+    "tracks": [
+      {
+        "id": "3r7qmpPhSl7rgIxo3ohCxe",
+        "name": "FUNK COMIGO",
+        "trackNumber": 1,
+        "duration": 76251,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3r7qmpPhSl7rgIxo3ohCxe"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:59.804Z"
+  },
+  {
+    "id": "mlhs6zxapesirqdn01",
+    "artistId": "mlhs6zjotk1mk8e7egb",
+    "artistName": "Revora",
+    "spotifyAlbumId": "5siWkB6PzpQxaxrkly2AkG",
+    "name": "if only we stayed",
+    "type": "single",
+    "releaseDate": "2025-08-25",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273efeb6d9cbb42b90e792af407",
+    "spotifyUrl": "https://open.spotify.com/album/5siWkB6PzpQxaxrkly2AkG",
+    "tracks": [
+      {
+        "id": "1x4icKq5cswHVZU9vENO3e",
+        "name": "if only we stayed",
+        "trackNumber": 1,
+        "duration": 120000,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1x4icKq5cswHVZU9vENO3e"
+      }
+    ],
+    "addedAt": "2026-02-11T08:41:59.902Z"
+  },
+  {
+    "id": "mlhs700izoujx8kl5",
+    "artistId": "mlhs6zjotk1mk8e7egb",
+    "artistName": "Revora",
+    "spotifyAlbumId": "4PM0qwR2WSuRlHl0oyPUib",
+    "name": "Soulmates",
+    "type": "single",
+    "releaseDate": "2020-06-29",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2735496f473eb259b3920baaa76",
+    "spotifyUrl": "https://open.spotify.com/album/4PM0qwR2WSuRlHl0oyPUib",
+    "tracks": [
+      {
+        "id": "7v1L1hiiUdlTMYerkSE4dU",
+        "name": "Soulmates",
+        "trackNumber": 1,
+        "duration": 228221,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7v1L1hiiUdlTMYerkSE4dU"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:00.018Z"
+  },
+  {
+    "id": "mlhs703q2ejlrura8fg",
+    "artistId": "mlhs6zjotk1mk8e7egb",
+    "artistName": "Revora",
+    "spotifyAlbumId": "6XeOMpkIw2ySZC8kdI8l34",
+    "name": "Best of 2019",
+    "type": "single",
+    "releaseDate": "2019-12-06",
+    "totalTracks": 2,
+    "image": "https://i.scdn.co/image/ab67616d0000b27369673775c09e394f7bb8859d",
+    "spotifyUrl": "https://open.spotify.com/album/6XeOMpkIw2ySZC8kdI8l34",
+    "tracks": [
+      {
+        "id": "17IdzzW8l5fYpDyYgs4t8c",
+        "name": "Almost Blue",
+        "trackNumber": 1,
+        "duration": 98587,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/17IdzzW8l5fYpDyYgs4t8c"
+      },
+      {
+        "id": "1epb0jmEG4JD2bSDoTJy0K",
+        "name": "Duke",
+        "trackNumber": 2,
+        "duration": 135681,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1epb0jmEG4JD2bSDoTJy0K"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:00.134Z"
+  },
+  {
+    "id": "mlhs70i3o38b2h2510g",
+    "artistId": "mlhs70a9nxfju2792o",
+    "artistName": "Brythis",
+    "spotifyAlbumId": "0N2H99oEbtgCfCDI6FeJC6",
+    "name": "Studying Vibes",
+    "type": "album",
+    "releaseDate": "2025-06-30",
+    "totalTracks": 12,
+    "image": "https://i.scdn.co/image/ab67616d0000b273c99864cd10bd3d9f0fecb7fb",
+    "spotifyUrl": "https://open.spotify.com/album/0N2H99oEbtgCfCDI6FeJC6",
+    "tracks": [
+      {
+        "id": "0T7ffItYDoBgxbEPu9Mmbl",
+        "name": "Study Flow",
+        "trackNumber": 1,
+        "duration": 112839,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0T7ffItYDoBgxbEPu9Mmbl"
+      },
+      {
+        "id": "5wGhfk2h9bS6oX78pIFgtA",
+        "name": "Quiet Mind",
+        "trackNumber": 2,
+        "duration": 124439,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5wGhfk2h9bS6oX78pIFgtA"
+      },
+      {
+        "id": "6ctd4g7ZskDPCPAf1NjGhv",
+        "name": "Study Lo-fi",
+        "trackNumber": 3,
+        "duration": 114399,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6ctd4g7ZskDPCPAf1NjGhv"
+      },
+      {
+        "id": "0vP5L43SFK8Sgv10lB6mGo",
+        "name": "Midnight Reverie",
+        "trackNumber": 4,
+        "duration": 159359,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0vP5L43SFK8Sgv10lB6mGo"
+      },
+      {
+        "id": "2m3uYZF3t7FKxdXMV60Gwx",
+        "name": "Midnight Focus",
+        "trackNumber": 5,
+        "duration": 85839,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2m3uYZF3t7FKxdXMV60Gwx"
+      },
+      {
+        "id": "7MxlqRdTkqCwX9LMrqly73",
+        "name": "Late Night Pages",
+        "trackNumber": 6,
+        "duration": 109719,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7MxlqRdTkqCwX9LMrqly73"
+      },
+      {
+        "id": "0u0ZuMXxRoK0P3JMOQwlDc",
+        "name": "Dreaming in the Quiet",
+        "trackNumber": 7,
+        "duration": 93719,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0u0ZuMXxRoK0P3JMOQwlDc"
+      },
+      {
+        "id": "2vGV9N53D3iDlkq2CvgBbj",
+        "name": "Study Groove",
+        "trackNumber": 8,
+        "duration": 100439,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2vGV9N53D3iDlkq2CvgBbj"
+      },
+      {
+        "id": "5MW55TyDwNklWbDLGJfCE2",
+        "name": "Study Flow 2",
+        "trackNumber": 9,
+        "duration": 122879,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5MW55TyDwNklWbDLGJfCE2"
+      },
+      {
+        "id": "2jnCofWjQ0hxPVQBEloRUr",
+        "name": "Midnight Notes",
+        "trackNumber": 10,
+        "duration": 124959,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2jnCofWjQ0hxPVQBEloRUr"
+      },
+      {
+        "id": "6p4zJHcNiEIakHSvLoEMSt",
+        "name": "Study Flow 3",
+        "trackNumber": 11,
+        "duration": 119959,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6p4zJHcNiEIakHSvLoEMSt"
+      },
+      {
+        "id": "6S9lkV28DsPRQZp4nzgjFB",
+        "name": "Study Flow 4",
+        "trackNumber": 12,
+        "duration": 188759,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6S9lkV28DsPRQZp4nzgjFB"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:00.651Z"
+  },
+  {
+    "id": "mlhs70lft7a11mqo36i",
+    "artistId": "mlhs70a9nxfju2792o",
+    "artistName": "Brythis",
+    "spotifyAlbumId": "4pWfJPzqhoq4OIyGhHYcfb",
+    "name": "Nice Cup'o Coffee",
+    "type": "album",
+    "releaseDate": "2025-06-28",
+    "totalTracks": 10,
+    "image": "https://i.scdn.co/image/ab67616d0000b2739d50c36ed801dcb6d8d61dda",
+    "spotifyUrl": "https://open.spotify.com/album/4pWfJPzqhoq4OIyGhHYcfb",
+    "tracks": [
+      {
+        "id": "1Ra0RmdC6TQXOnvDYkqwdM",
+        "name": "Winter Glow",
+        "trackNumber": 1,
+        "duration": 127679,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1Ra0RmdC6TQXOnvDYkqwdM"
+      },
+      {
+        "id": "2HilOz2yAfHcD1qDifcEP2",
+        "name": "Winter Glow 2",
+        "trackNumber": 2,
+        "duration": 130199,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2HilOz2yAfHcD1qDifcEP2"
+      },
+      {
+        "id": "33x4CLLA2brTu1euQcidyx",
+        "name": "Snowball Serenade",
+        "trackNumber": 3,
+        "duration": 177959,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/33x4CLLA2brTu1euQcidyx"
+      },
+      {
+        "id": "3CFl8qk4P4S0oZmJXnEvEN",
+        "name": "Snowball Serenade 2",
+        "trackNumber": 4,
+        "duration": 148039,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3CFl8qk4P4S0oZmJXnEvEN"
+      },
+      {
+        "id": "5QyX1dQk1z1vYbk6BIe1aO",
+        "name": "Cozy Winter Nights",
+        "trackNumber": 5,
+        "duration": 114599,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5QyX1dQk1z1vYbk6BIe1aO"
+      },
+      {
+        "id": "6SVxqKDfBnMCjzI6dteCAD",
+        "name": "Cozy Winter Nights 2",
+        "trackNumber": 6,
+        "duration": 148399,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6SVxqKDfBnMCjzI6dteCAD"
+      },
+      {
+        "id": "6ZGmdQW7qGp5IqxmyiRM7D",
+        "name": "Winter Whispers",
+        "trackNumber": 7,
+        "duration": 102439,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6ZGmdQW7qGp5IqxmyiRM7D"
+      },
+      {
+        "id": "1uARsYZVcEXNBTx1fF50WT",
+        "name": "Winter Whispers 2",
+        "trackNumber": 8,
+        "duration": 146959,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1uARsYZVcEXNBTx1fF50WT"
+      },
+      {
+        "id": "7ADSTZgPNv1iEvGVUgjSCS",
+        "name": "Snowfall Dreams",
+        "trackNumber": 9,
+        "duration": 157159,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7ADSTZgPNv1iEvGVUgjSCS"
+      },
+      {
+        "id": "4ycBNfAjWvrmZa5zZ53Bhe",
+        "name": "Snowfall Dreams 2",
+        "trackNumber": 10,
+        "duration": 125079,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4ycBNfAjWvrmZa5zZ53Bhe"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:00.771Z"
+  },
+  {
+    "id": "mlhs70og431jfjoej3s",
+    "artistId": "mlhs70a9nxfju2792o",
+    "artistName": "Brythis",
+    "spotifyAlbumId": "0AKwpA9cicROUnh3KOAB5c",
+    "name": "Chill Summer Vibes",
+    "type": "album",
+    "releaseDate": "2025-06-27",
+    "totalTracks": 8,
+    "image": "https://i.scdn.co/image/ab67616d0000b2736e5127c61c8138f3570dc66b",
+    "spotifyUrl": "https://open.spotify.com/album/0AKwpA9cicROUnh3KOAB5c",
+    "tracks": [
+      {
+        "id": "3HE2e65JgL9P8Peeg1eEi3",
+        "name": "Window Vibes",
+        "trackNumber": 1,
+        "duration": 139959,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3HE2e65JgL9P8Peeg1eEi3"
+      },
+      {
+        "id": "0tz7KoZY8nRT0aLHrwLh0F",
+        "name": "Window Vibes 2",
+        "trackNumber": 2,
+        "duration": 137399,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0tz7KoZY8nRT0aLHrwLh0F"
+      },
+      {
+        "id": "5NEl7Mx0lRaaizYPk8uG5i",
+        "name": "Window's Breeze",
+        "trackNumber": 3,
+        "duration": 154959,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5NEl7Mx0lRaaizYPk8uG5i"
+      },
+      {
+        "id": "7hL0Agxt2vQwZe10H3s0Ck",
+        "name": "Sunny Window Vibes",
+        "trackNumber": 4,
+        "duration": 113919,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7hL0Agxt2vQwZe10H3s0Ck"
+      },
+      {
+        "id": "3hQ6xFbrq9ETPtNTcA7CnH",
+        "name": "Sunny Window Vibes 2",
+        "trackNumber": 5,
+        "duration": 149279,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3hQ6xFbrq9ETPtNTcA7CnH"
+      },
+      {
+        "id": "5p6ctGIehrKmHuK7QVnLxV",
+        "name": "Sunlit Dreams",
+        "trackNumber": 6,
+        "duration": 184599,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5p6ctGIehrKmHuK7QVnLxV"
+      },
+      {
+        "id": "3hdzJqXfyp4O03I01XXGsk",
+        "name": "Sunlit Vibes",
+        "trackNumber": 7,
+        "duration": 96439,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3hdzJqXfyp4O03I01XXGsk"
+      },
+      {
+        "id": "5wT9ihvuNOqf1WYHgargHa",
+        "name": "Sunlit Vibes 2",
+        "trackNumber": 8,
+        "duration": 119999,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5wT9ihvuNOqf1WYHgargHa"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:00.880Z"
+  },
+  {
+    "id": "mlhs70rkr6425f2ahae",
+    "artistId": "mlhs70a9nxfju2792o",
+    "artistName": "Brythis",
+    "spotifyAlbumId": "7yKqfccUvCJwKlIQE4pevc",
+    "name": "Afternoon Reverie",
+    "type": "single",
+    "releaseDate": "2025-06-26",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2739b25e31873b9dc1e222f9fc3",
+    "spotifyUrl": "https://open.spotify.com/album/7yKqfccUvCJwKlIQE4pevc",
+    "tracks": [
+      {
+        "id": "289sg46VhsVurYxUO08ft5",
+        "name": "Afternoon Reverie",
+        "trackNumber": 1,
+        "duration": 184639,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/289sg46VhsVurYxUO08ft5"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:00.992Z"
+  },
+  {
+    "id": "mlhs70uskgb2jifpimb",
+    "artistId": "mlhs70a9nxfju2792o",
+    "artistName": "Brythis",
+    "spotifyAlbumId": "0SECnG9wYM8zp66OZekFvZ",
+    "name": "Friend",
+    "type": "single",
+    "releaseDate": "2019-12-26",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2732dab445becadc2547c52a41d",
+    "spotifyUrl": "https://open.spotify.com/album/0SECnG9wYM8zp66OZekFvZ",
+    "tracks": [
+      {
+        "id": "612Iq4Y8bUwCFFp2urgeOn",
+        "name": "Friend",
+        "trackNumber": 1,
+        "duration": 101076,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/612Iq4Y8bUwCFFp2urgeOn"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:01.108Z"
+  },
+  {
+    "id": "mlhs717f1co3he23no3",
+    "artistId": "mlhs71096fbcf24pih7",
+    "artistName": "Cyraya",
+    "spotifyAlbumId": "4LnnfN59BMlxSYD9smuTwt",
+    "name": "Chill & Study Lo-fi",
+    "type": "album",
+    "releaseDate": "2025-06-30",
+    "totalTracks": 12,
+    "image": "https://i.scdn.co/image/ab67616d0000b273fbcdeb2749735001d28b0cea",
+    "spotifyUrl": "https://open.spotify.com/album/4LnnfN59BMlxSYD9smuTwt",
+    "tracks": [
+      {
+        "id": "64f7pruqKemmSPEsndxmme",
+        "name": "Quiet Mind",
+        "trackNumber": 1,
+        "duration": 151799,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/64f7pruqKemmSPEsndxmme"
+      },
+      {
+        "id": "75xkhL548aHdkSY3r0CeRT",
+        "name": "Study Lo-fi",
+        "trackNumber": 2,
+        "duration": 161159,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/75xkhL548aHdkSY3r0CeRT"
+      },
+      {
+        "id": "55uSKJJoczwqQ6cbrXfKkj",
+        "name": "Midnight Reverie",
+        "trackNumber": 3,
+        "duration": 136559,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/55uSKJJoczwqQ6cbrXfKkj"
+      },
+      {
+        "id": "4DazqRrwLNtlLfYIYlbjBZ",
+        "name": "Midnight Focus",
+        "trackNumber": 4,
+        "duration": 128679,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4DazqRrwLNtlLfYIYlbjBZ"
+      },
+      {
+        "id": "6zitVpEdqNg5luiv6pysti",
+        "name": "Late Night Pages",
+        "trackNumber": 5,
+        "duration": 133719,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6zitVpEdqNg5luiv6pysti"
+      },
+      {
+        "id": "6B9GvAkCvNT8sYD2QMTgTv",
+        "name": "Dreaming in the Quiet",
+        "trackNumber": 6,
+        "duration": 163519,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6B9GvAkCvNT8sYD2QMTgTv"
+      },
+      {
+        "id": "4T0ckRGx7E3OaNd3X5huzv",
+        "name": "Study Groove",
+        "trackNumber": 7,
+        "duration": 139159,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4T0ckRGx7E3OaNd3X5huzv"
+      },
+      {
+        "id": "2eNcYhfdoYGpWlJUGzfNDK",
+        "name": "Midnight Notes 2",
+        "trackNumber": 8,
+        "duration": 122679,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2eNcYhfdoYGpWlJUGzfNDK"
+      },
+      {
+        "id": "5gqAu3nR0zMrDIKyRVTEor",
+        "name": "Under The Neon Moon",
+        "trackNumber": 9,
+        "duration": 172599,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5gqAu3nR0zMrDIKyRVTEor"
+      },
+      {
+        "id": "6OB5syPADhoNEAWRIiwWwK",
+        "name": "Under the Neon Moon 2",
+        "trackNumber": 10,
+        "duration": 177559,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6OB5syPADhoNEAWRIiwWwK"
+      },
+      {
+        "id": "1NQXR8XBkgwt0qhamlnQMy",
+        "name": "Study Beats",
+        "trackNumber": 11,
+        "duration": 149559,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1NQXR8XBkgwt0qhamlnQMy"
+      },
+      {
+        "id": "4VjSnf2XtOh0S4uXBa2Zng",
+        "name": "Study Beats 2",
+        "trackNumber": 12,
+        "duration": 146799,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4VjSnf2XtOh0S4uXBa2Zng"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:01.563Z"
+  },
+  {
+    "id": "mlhs71cqels479zcec4",
+    "artistId": "mlhs71096fbcf24pih7",
+    "artistName": "Cyraya",
+    "spotifyAlbumId": "0Cg6YDTP5p8K55T1du6FV3",
+    "name": "Winter Out There",
+    "type": "album",
+    "releaseDate": "2025-06-28",
+    "totalTracks": 10,
+    "image": "https://i.scdn.co/image/ab67616d0000b273553239c2dd928a85010a549c",
+    "spotifyUrl": "https://open.spotify.com/album/0Cg6YDTP5p8K55T1du6FV3",
+    "tracks": [
+      {
+        "id": "7lLpEGMtt7hfsAL5ZvsdUY",
+        "name": "Frosted Dreams",
+        "trackNumber": 1,
+        "duration": 164519,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7lLpEGMtt7hfsAL5ZvsdUY"
+      },
+      {
+        "id": "12nVoQIsR1nWNf0pSE2ai7",
+        "name": "Frosted Dreams 2",
+        "trackNumber": 2,
+        "duration": 129159,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/12nVoQIsR1nWNf0pSE2ai7"
+      },
+      {
+        "id": "2Ol1spCbymCZ4lpcdnBFHX",
+        "name": "Cozy Winter Glow",
+        "trackNumber": 3,
+        "duration": 134879,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2Ol1spCbymCZ4lpcdnBFHX"
+      },
+      {
+        "id": "1rYCMTmCiUzHCSJXydvpcS",
+        "name": "Cozy Winter Glow 2",
+        "trackNumber": 4,
+        "duration": 154679,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1rYCMTmCiUzHCSJXydvpcS"
+      },
+      {
+        "id": "1dF0zFWsFQOVcH4SwxOeHO",
+        "name": "Snowfall Serenade",
+        "trackNumber": 5,
+        "duration": 182679,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1dF0zFWsFQOVcH4SwxOeHO"
+      },
+      {
+        "id": "2cLQwaQR714vqAz4kcCXfG",
+        "name": "Snowfall Serenade 2",
+        "trackNumber": 6,
+        "duration": 120079,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2cLQwaQR714vqAz4kcCXfG"
+      },
+      {
+        "id": "7sMAM7kGv8gbCxfxWrvd2t",
+        "name": "Winter Glow",
+        "trackNumber": 7,
+        "duration": 186639,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7sMAM7kGv8gbCxfxWrvd2t"
+      },
+      {
+        "id": "77c0DEgaDY9R07j9SrN9HQ",
+        "name": "Winter Glow 2",
+        "trackNumber": 8,
+        "duration": 139999,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/77c0DEgaDY9R07j9SrN9HQ"
+      },
+      {
+        "id": "12GZxwvoPFZXdYxO7OCLjH",
+        "name": "Snowfall Serenade 3",
+        "trackNumber": 9,
+        "duration": 119959,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/12GZxwvoPFZXdYxO7OCLjH"
+      },
+      {
+        "id": "0oT3jjbWHdrV11gjvXbVvh",
+        "name": "Snowfall Serenade 4",
+        "trackNumber": 10,
+        "duration": 163399,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0oT3jjbWHdrV11gjvXbVvh"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:01.754Z"
+  },
+  {
+    "id": "mlhs71g3i06vgr0jq0r",
+    "artistId": "mlhs71096fbcf24pih7",
+    "artistName": "Cyraya",
+    "spotifyAlbumId": "7Mzysbd58UW5mfeN0AkAoS",
+    "name": "Chill Summer Vibes Lo-fi",
+    "type": "album",
+    "releaseDate": "2025-06-27",
+    "totalTracks": 8,
+    "image": "https://i.scdn.co/image/ab67616d0000b273535575c61a87585e21ab1c56",
+    "spotifyUrl": "https://open.spotify.com/album/7Mzysbd58UW5mfeN0AkAoS",
+    "tracks": [
+      {
+        "id": "65RqWwUDgDWq8EgU1hYq7U",
+        "name": "Afternoon Reverie",
+        "trackNumber": 1,
+        "duration": 129239,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/65RqWwUDgDWq8EgU1hYq7U"
+      },
+      {
+        "id": "5RKEr5EL1zSfOHSzTuLPCw",
+        "name": "Golden Breeze",
+        "trackNumber": 2,
+        "duration": 139839,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5RKEr5EL1zSfOHSzTuLPCw"
+      },
+      {
+        "id": "362R8D8b1U83npgvNKg57f",
+        "name": "Golden Breeze 2",
+        "trackNumber": 3,
+        "duration": 140879,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/362R8D8b1U83npgvNKg57f"
+      },
+      {
+        "id": "5SnkQT6KnjdIRtBV3YNLvK",
+        "name": "Sunny Windowsill",
+        "trackNumber": 4,
+        "duration": 163759,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5SnkQT6KnjdIRtBV3YNLvK"
+      },
+      {
+        "id": "6k6te0vjNPtYluakg2EWMz",
+        "name": "Sunny Windowsill 2",
+        "trackNumber": 5,
+        "duration": 157879,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6k6te0vjNPtYluakg2EWMz"
+      },
+      {
+        "id": "320mJmTDPvh1VpkUpZrRt9",
+        "name": "Sunday Afternoon Groove",
+        "trackNumber": 6,
+        "duration": 108639,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/320mJmTDPvh1VpkUpZrRt9"
+      },
+      {
+        "id": "738SgfRMWQ14nSPxbdvMpW",
+        "name": "Sunny Afternoon Groove 2",
+        "trackNumber": 7,
+        "duration": 145759,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/738SgfRMWQ14nSPxbdvMpW"
+      },
+      {
+        "id": "0rv3eiXyBII6UvkDtHUhkj",
+        "name": "Sunny Afternoon Groove 3",
+        "trackNumber": 8,
+        "duration": 150319,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0rv3eiXyBII6UvkDtHUhkj"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:01.875Z"
+  },
+  {
+    "id": "mlhs71j4makug3tl5ka",
+    "artistId": "mlhs71096fbcf24pih7",
+    "artistName": "Cyraya",
+    "spotifyAlbumId": "1WpGROZHBmHE2xxIj8NcJ3",
+    "name": "Sunlit Dreams",
+    "type": "single",
+    "releaseDate": "2025-06-26",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273eab4229ee1097bc90dff1e84",
+    "spotifyUrl": "https://open.spotify.com/album/1WpGROZHBmHE2xxIj8NcJ3",
+    "tracks": [
+      {
+        "id": "0Oi1NyfGXI7UM7ByWygxCZ",
+        "name": "Sunlit Dreams",
+        "trackNumber": 1,
+        "duration": 167279,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0Oi1NyfGXI7UM7ByWygxCZ"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:01.984Z"
+  },
+  {
+    "id": "mlhs71m1dkvjpaxfzzk",
+    "artistId": "mlhs71096fbcf24pih7",
+    "artistName": "Cyraya",
+    "spotifyAlbumId": "66RAtA5sng9sE4FTg8EVwH",
+    "name": "Open Window Afternoon",
+    "type": "single",
+    "releaseDate": "2025-06-26",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27373575bd6271ff3dad3532f71",
+    "spotifyUrl": "https://open.spotify.com/album/66RAtA5sng9sE4FTg8EVwH",
+    "tracks": [
+      {
+        "id": "6iO8LdA1LYUBwlyhwLhlFA",
+        "name": "Open Window Afternoon",
+        "trackNumber": 1,
+        "duration": 141199,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6iO8LdA1LYUBwlyhwLhlFA"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:02.089Z"
+  },
+  {
+    "id": "mlhs7208goz8ybpqpdd",
+    "artistId": "mlhs71rshbnrxccr86m",
+    "artistName": "Ulthera",
+    "spotifyAlbumId": "1Mc6edp8U2i0zY0WtjER9H",
+    "name": "Cup of Coffee & Study",
+    "type": "album",
+    "releaseDate": "2025-07-01",
+    "totalTracks": 12,
+    "image": "https://i.scdn.co/image/ab67616d0000b273ebac63741107084516ac6d64",
+    "spotifyUrl": "https://open.spotify.com/album/1Mc6edp8U2i0zY0WtjER9H",
+    "tracks": [
+      {
+        "id": "3tc2hsDIdTorJznLpw7xUR",
+        "name": "Cloudy Thoughts",
+        "trackNumber": 1,
+        "duration": 106479,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3tc2hsDIdTorJznLpw7xUR"
+      },
+      {
+        "id": "52WduJKZCR5j7n28ItbR6B",
+        "name": "Cloudy Thoughts 2",
+        "trackNumber": 2,
+        "duration": 118239,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/52WduJKZCR5j7n28ItbR6B"
+      },
+      {
+        "id": "1H4gB2eYMLu8srLnC9LDJu",
+        "name": "Midnight Pages",
+        "trackNumber": 3,
+        "duration": 142519,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1H4gB2eYMLu8srLnC9LDJu"
+      },
+      {
+        "id": "1iNYwNkFKCFLQVEcU75bWt",
+        "name": "Midnight Pages 2",
+        "trackNumber": 4,
+        "duration": 95959,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1iNYwNkFKCFLQVEcU75bWt"
+      },
+      {
+        "id": "6N5ME5ijvBAVzkz2Wl5BIZ",
+        "name": "Focus on the Breeze",
+        "trackNumber": 5,
+        "duration": 184759,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6N5ME5ijvBAVzkz2Wl5BIZ"
+      },
+      {
+        "id": "68SJrkHS8cFAH9201EQVDI",
+        "name": "Focus on the Breeze 2",
+        "trackNumber": 6,
+        "duration": 130639,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/68SJrkHS8cFAH9201EQVDI"
+      },
+      {
+        "id": "03YN1K3EwcABmNg41vSnC7",
+        "name": "Midnight Pages 3",
+        "trackNumber": 7,
+        "duration": 129679,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/03YN1K3EwcABmNg41vSnC7"
+      },
+      {
+        "id": "5xXd0HOxmBGYB7q7MOwcsi",
+        "name": "Midnight Pages 4",
+        "trackNumber": 8,
+        "duration": 116639,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5xXd0HOxmBGYB7q7MOwcsi"
+      },
+      {
+        "id": "3xmwtEKX7HS8RwSqB6r54j",
+        "name": "Nightlight Glow",
+        "trackNumber": 9,
+        "duration": 157679,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3xmwtEKX7HS8RwSqB6r54j"
+      },
+      {
+        "id": "0Hd0DtIM6UrYga8XuEJpQs",
+        "name": "Nightlight Glow 2",
+        "trackNumber": 10,
+        "duration": 157999,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0Hd0DtIM6UrYga8XuEJpQs"
+      },
+      {
+        "id": "5raUFTpjVdJauvVt6mOJfu",
+        "name": "Nightlight Glow 3",
+        "trackNumber": 11,
+        "duration": 139639,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5raUFTpjVdJauvVt6mOJfu"
+      },
+      {
+        "id": "2MtRftUhqqn2ayjgWsuGbt",
+        "name": "Nightlight Glow 4",
+        "trackNumber": 12,
+        "duration": 147599,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2MtRftUhqqn2ayjgWsuGbt"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:02.600Z"
+  },
+  {
+    "id": "mlhs723e76mq3iduvyd",
+    "artistId": "mlhs71rshbnrxccr86m",
+    "artistName": "Ulthera",
+    "spotifyAlbumId": "3fcRrfmyILNwkAzOp9K6zq",
+    "name": "Winter Coziness",
+    "type": "album",
+    "releaseDate": "2025-06-28",
+    "totalTracks": 10,
+    "image": "https://i.scdn.co/image/ab67616d0000b2731ecee93b155ad806742c0162",
+    "spotifyUrl": "https://open.spotify.com/album/3fcRrfmyILNwkAzOp9K6zq",
+    "tracks": [
+      {
+        "id": "2pRkjfTcKYpjxabaL0DKvu",
+        "name": "Snowball Serenade",
+        "trackNumber": 1,
+        "duration": 124239,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2pRkjfTcKYpjxabaL0DKvu"
+      },
+      {
+        "id": "5BceGrdPCrmXF5EuC028UY",
+        "name": "Snowball Serenade 2",
+        "trackNumber": 2,
+        "duration": 119999,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5BceGrdPCrmXF5EuC028UY"
+      },
+      {
+        "id": "33zfr2hUFwA4505K2Yy35L",
+        "name": "Cozy Winter Chill",
+        "trackNumber": 3,
+        "duration": 139959,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/33zfr2hUFwA4505K2Yy35L"
+      },
+      {
+        "id": "64QywmGGTjrrGRNBaTEaM9",
+        "name": "Cozy Winter Chill 2",
+        "trackNumber": 4,
+        "duration": 109199,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/64QywmGGTjrrGRNBaTEaM9"
+      },
+      {
+        "id": "2QfZvjuK3lOm3WpXt0ljDI",
+        "name": "Winter Whispers",
+        "trackNumber": 5,
+        "duration": 157239,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2QfZvjuK3lOm3WpXt0ljDI"
+      },
+      {
+        "id": "03jWTdE0PL68X0ryJRO7GW",
+        "name": "Winter Whispers 2",
+        "trackNumber": 6,
+        "duration": 144959,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/03jWTdE0PL68X0ryJRO7GW"
+      },
+      {
+        "id": "6y6ewOenCuhGGmjfYgf3l7",
+        "name": "Snowball Dreams",
+        "trackNumber": 7,
+        "duration": 115079,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6y6ewOenCuhGGmjfYgf3l7"
+      },
+      {
+        "id": "7BhegNcAsfDiUkOAaQnKeB",
+        "name": "Snowball Dreams 2",
+        "trackNumber": 8,
+        "duration": 109919,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7BhegNcAsfDiUkOAaQnKeB"
+      },
+      {
+        "id": "3vi2331fimyesFjd9mIjlc",
+        "name": "Snowball Reverie",
+        "trackNumber": 9,
+        "duration": 146279,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3vi2331fimyesFjd9mIjlc"
+      },
+      {
+        "id": "3d2TGQIQyr2Xu9BKQ3Lm5n",
+        "name": "Snowball Reverie 2",
+        "trackNumber": 10,
+        "duration": 115239,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3d2TGQIQyr2Xu9BKQ3Lm5n"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:02.714Z"
+  },
+  {
+    "id": "mlhs726ct53lt2vpz9e",
+    "artistId": "mlhs71rshbnrxccr86m",
+    "artistName": "Ulthera",
+    "spotifyAlbumId": "65mxpwjfRFkaD5xdHH2Qh0",
+    "name": "Window Days",
+    "type": "single",
+    "releaseDate": "2025-06-26",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27367bef3d583f43e05d60c59ae",
+    "spotifyUrl": "https://open.spotify.com/album/65mxpwjfRFkaD5xdHH2Qh0",
+    "tracks": [
+      {
+        "id": "1UUmhR0udCWTs7lD6u3ivP",
+        "name": "Window Days",
+        "trackNumber": 1,
+        "duration": 111039,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1UUmhR0udCWTs7lD6u3ivP"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:02.820Z"
+  },
+  {
+    "id": "mlhs72ivwk1aakp2y2l",
+    "artistId": "mlhs72bwbjafdk7v6bl",
+    "artistName": "Kalitho",
+    "spotifyAlbumId": "6ZVGqWYwSKZBW7mEU8Dguh",
+    "name": "Study Lo-fi",
+    "type": "album",
+    "releaseDate": "2025-06-30",
+    "totalTracks": 12,
+    "image": "https://i.scdn.co/image/ab67616d0000b273b0eda71f78fb6d2477837d1b",
+    "spotifyUrl": "https://open.spotify.com/album/6ZVGqWYwSKZBW7mEU8Dguh",
+    "tracks": [
+      {
+        "id": "0iPACVy3c10VPoxVPRjBzR",
+        "name": "Study Groove",
+        "trackNumber": 1,
+        "duration": 155959,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0iPACVy3c10VPoxVPRjBzR"
+      },
+      {
+        "id": "6M4cdhGma8S5fwdGdwmR2j",
+        "name": "Study Groove 2",
+        "trackNumber": 2,
+        "duration": 74239,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6M4cdhGma8S5fwdGdwmR2j"
+      },
+      {
+        "id": "75IbReojTiooPnDyGQMN2p",
+        "name": "Study Flow",
+        "trackNumber": 3,
+        "duration": 129718,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/75IbReojTiooPnDyGQMN2p"
+      },
+      {
+        "id": "0E9q3h77SixJ3kBCuy5keC",
+        "name": "Study Flow 2",
+        "trackNumber": 4,
+        "duration": 165559,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0E9q3h77SixJ3kBCuy5keC"
+      },
+      {
+        "id": "0YqP91HxSWdn6U4XBGn4TZ",
+        "name": "Study Chill",
+        "trackNumber": 5,
+        "duration": 135679,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0YqP91HxSWdn6U4XBGn4TZ"
+      },
+      {
+        "id": "0EUISDWdmoLRYarozifb2W",
+        "name": "Study Chill 2",
+        "trackNumber": 6,
+        "duration": 158079,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0EUISDWdmoLRYarozifb2W"
+      },
+      {
+        "id": "0YpvYEus9vobGEbq7AC0JD",
+        "name": "Dreaming in Dusk",
+        "trackNumber": 7,
+        "duration": 122519,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0YpvYEus9vobGEbq7AC0JD"
+      },
+      {
+        "id": "6xbznFQlFKIEqyKaNomVO4",
+        "name": "Dreaming in Dusk 2",
+        "trackNumber": 8,
+        "duration": 120079,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6xbznFQlFKIEqyKaNomVO4"
+      },
+      {
+        "id": "6x4LM3uSIqI613lElADjN1",
+        "name": "Under the Midnight Glow",
+        "trackNumber": 9,
+        "duration": 114959,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6x4LM3uSIqI613lElADjN1"
+      },
+      {
+        "id": "0a0uO1IvtbURBYkIBwpibq",
+        "name": "Under the Midinght Glow 2",
+        "trackNumber": 10,
+        "duration": 109799,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0a0uO1IvtbURBYkIBwpibq"
+      },
+      {
+        "id": "6dPEcoZxEX5wizULF90cXf",
+        "name": "Midnight Pages",
+        "trackNumber": 11,
+        "duration": 114399,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6dPEcoZxEX5wizULF90cXf"
+      },
+      {
+        "id": "3l0DpWzAmP3AeI4Pmoo0hj",
+        "name": "Midnight Pages 2",
+        "trackNumber": 12,
+        "duration": 145119,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3l0DpWzAmP3AeI4Pmoo0hj"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:03.271Z"
+  },
+  {
+    "id": "mlhs72lxk6la4h1k9f",
+    "artistId": "mlhs72bwbjafdk7v6bl",
+    "artistName": "Kalitho",
+    "spotifyAlbumId": "21vU5422pNucTOYtDFwVP4",
+    "name": "Warming Winter",
+    "type": "album",
+    "releaseDate": "2025-06-28",
+    "totalTracks": 10,
+    "image": "https://i.scdn.co/image/ab67616d0000b27354b7615d246388ca9791565e",
+    "spotifyUrl": "https://open.spotify.com/album/21vU5422pNucTOYtDFwVP4",
+    "tracks": [
+      {
+        "id": "5M2WSwbCA17UFyLOX9Kn4T",
+        "name": "Frosted Dreams",
+        "trackNumber": 1,
+        "duration": 157079,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5M2WSwbCA17UFyLOX9Kn4T"
+      },
+      {
+        "id": "5tDxF5O9xyASbF8mru13JO",
+        "name": "Frosted Dreams 2",
+        "trackNumber": 2,
+        "duration": 105959,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5tDxF5O9xyASbF8mru13JO"
+      },
+      {
+        "id": "1ibnuj7NJjtTmgSAu2oWeF",
+        "name": "Frosty Whispers",
+        "trackNumber": 3,
+        "duration": 127799,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1ibnuj7NJjtTmgSAu2oWeF"
+      },
+      {
+        "id": "42gDhp7FRuqQsS463I3Uqu",
+        "name": "Frosty Whispers 2",
+        "trackNumber": 4,
+        "duration": 197639,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/42gDhp7FRuqQsS463I3Uqu"
+      },
+      {
+        "id": "4U9Cxik32NlzhVCiWUiLWF",
+        "name": "Snowbound Soul",
+        "trackNumber": 5,
+        "duration": 121639,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4U9Cxik32NlzhVCiWUiLWF"
+      },
+      {
+        "id": "18awwlySlXrp2cUGfuPe5n",
+        "name": "Snowbound Soul 2",
+        "trackNumber": 6,
+        "duration": 132799,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/18awwlySlXrp2cUGfuPe5n"
+      },
+      {
+        "id": "1PifbjFAD67jAwERHE0E9d",
+        "name": "Snowy Silence",
+        "trackNumber": 7,
+        "duration": 149279,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1PifbjFAD67jAwERHE0E9d"
+      },
+      {
+        "id": "5L1YP0Sg3KhJXJUiXiUQuw",
+        "name": "Snow Silence 2",
+        "trackNumber": 8,
+        "duration": 149959,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5L1YP0Sg3KhJXJUiXiUQuw"
+      },
+      {
+        "id": "3bi05AQ0fm9QEPRkw8BWFE",
+        "name": "Winter Glow",
+        "trackNumber": 9,
+        "duration": 172359,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3bi05AQ0fm9QEPRkw8BWFE"
+      },
+      {
+        "id": "0u7ovo3RBNGrY1eBeg7455",
+        "name": "Winter Glow 2",
+        "trackNumber": 10,
+        "duration": 179799,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0u7ovo3RBNGrY1eBeg7455"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:03.381Z"
+  },
+  {
+    "id": "mlhs72p8p3ie9av42hs",
+    "artistId": "mlhs72bwbjafdk7v6bl",
+    "artistName": "Kalitho",
+    "spotifyAlbumId": "4TecQxByWARiPWrAyMs7BW",
+    "name": "Kalitho Lo-fi Mix",
+    "type": "album",
+    "releaseDate": "2025-06-27",
+    "totalTracks": 8,
+    "image": "https://i.scdn.co/image/ab67616d0000b273f37fbe68a76112e2a29592a6",
+    "spotifyUrl": "https://open.spotify.com/album/4TecQxByWARiPWrAyMs7BW",
+    "tracks": [
+      {
+        "id": "6Ey5xvzfStnXuwOmJDHgO1",
+        "name": "Endless Summer Glow",
+        "trackNumber": 1,
+        "duration": 160079,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6Ey5xvzfStnXuwOmJDHgO1"
+      },
+      {
+        "id": "6TB1YVAbT6YzMQHJgbCOdO",
+        "name": "Endless Summer Glow 2",
+        "trackNumber": 2,
+        "duration": 194919,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6TB1YVAbT6YzMQHJgbCOdO"
+      },
+      {
+        "id": "3Kbx6N4p6ZjEPtViSzqwHx",
+        "name": "Endless Shoreline",
+        "trackNumber": 3,
+        "duration": 129839,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3Kbx6N4p6ZjEPtViSzqwHx"
+      },
+      {
+        "id": "26a1kvd1Un5UUxuS35X12d",
+        "name": "Endless Shoreline 2",
+        "trackNumber": 4,
+        "duration": 157479,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/26a1kvd1Un5UUxuS35X12d"
+      },
+      {
+        "id": "3sNL2iN4iS8Mqxu4z5yHnd",
+        "name": "Window Days",
+        "trackNumber": 5,
+        "duration": 156679,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3sNL2iN4iS8Mqxu4z5yHnd"
+      },
+      {
+        "id": "6ZoFgfeAXAGJbF84mxlmeO",
+        "name": "Sunny Day Reverie",
+        "trackNumber": 6,
+        "duration": 152039,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6ZoFgfeAXAGJbF84mxlmeO"
+      },
+      {
+        "id": "7uXNR37KeMuPS408kCrhJf",
+        "name": "Sunny Day Reverie 2",
+        "trackNumber": 7,
+        "duration": 166759,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7uXNR37KeMuPS408kCrhJf"
+      },
+      {
+        "id": "35YAwPS9styvKniMXTMDyW",
+        "name": "Sunny Day Reverie 3",
+        "trackNumber": 8,
+        "duration": 112839,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/35YAwPS9styvKniMXTMDyW"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:03.500Z"
+  },
+  {
+    "id": "mlhs72s7p3r0jsh39t",
+    "artistId": "mlhs72bwbjafdk7v6bl",
+    "artistName": "Kalitho",
+    "spotifyAlbumId": "5gOKjfYm8gSIuAzgpgjhh6",
+    "name": "Window Breeze",
+    "type": "single",
+    "releaseDate": "2025-06-26",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27307de9fabd3551c24ff6287a9",
+    "spotifyUrl": "https://open.spotify.com/album/5gOKjfYm8gSIuAzgpgjhh6",
+    "tracks": [
+      {
+        "id": "64x5TKx09C7bNy6DXqXAy4",
+        "name": "Window Breeze",
+        "trackNumber": 1,
+        "duration": 134919,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/64x5TKx09C7bNy6DXqXAy4"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:03.607Z"
+  },
+  {
+    "id": "mlhs72v0tkw8r3l45d",
+    "artistId": "mlhs72bwbjafdk7v6bl",
+    "artistName": "Kalitho",
+    "spotifyAlbumId": "2O3q4xMAssfjaXdQ1ljkD2",
+    "name": "Daydreamin'",
+    "type": "single",
+    "releaseDate": "2019-08-30",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2737687290387a7f4a466ab7f76",
+    "spotifyUrl": "https://open.spotify.com/album/2O3q4xMAssfjaXdQ1ljkD2",
+    "tracks": [
+      {
+        "id": "4nBrY3UFY20Dp6u6cTYCug",
+        "name": "Daydreamin'",
+        "trackNumber": 1,
+        "duration": 93658,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4nBrY3UFY20Dp6u6cTYCug"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:03.708Z"
+  },
+  {
+    "id": "mlhs7384try0azqoc1",
+    "artistId": "mlhs730q2cvlcsszx3o",
+    "artistName": "Sablobe",
+    "spotifyAlbumId": "5J7QNqDE9ES9l5DsSGAXAa",
+    "name": "Winter Cozy Vibes",
+    "type": "album",
+    "releaseDate": "2025-06-28",
+    "totalTracks": 10,
+    "image": "https://i.scdn.co/image/ab67616d0000b273164a1c7d205c4390adfef201",
+    "spotifyUrl": "https://open.spotify.com/album/5J7QNqDE9ES9l5DsSGAXAa",
+    "tracks": [
+      {
+        "id": "0To9amEPDTnn3XqKOVhyUE",
+        "name": "Winter's Glow",
+        "trackNumber": 1,
+        "duration": 137839,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0To9amEPDTnn3XqKOVhyUE"
+      },
+      {
+        "id": "45wX0y8m20r3HrDz5EHAjy",
+        "name": "Winter's Glow 2",
+        "trackNumber": 2,
+        "duration": 131719,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/45wX0y8m20r3HrDz5EHAjy"
+      },
+      {
+        "id": "5nnDCVfzCCXbbmDwc7xVdU",
+        "name": "Winter's Embrace",
+        "trackNumber": 3,
+        "duration": 119999,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5nnDCVfzCCXbbmDwc7xVdU"
+      },
+      {
+        "id": "5ssOQCmgH2hwZFu1kRkFOL",
+        "name": "Winter's Embrace 2",
+        "trackNumber": 4,
+        "duration": 110959,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5ssOQCmgH2hwZFu1kRkFOL"
+      },
+      {
+        "id": "7m2C1Q8Sq0Ot2QD4FWgLce",
+        "name": "Winter Glow",
+        "trackNumber": 5,
+        "duration": 134919,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7m2C1Q8Sq0Ot2QD4FWgLce"
+      },
+      {
+        "id": "3sZ4IZqoyKC8zwldoNbqOE",
+        "name": "Winter Glow 2",
+        "trackNumber": 6,
+        "duration": 209639,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3sZ4IZqoyKC8zwldoNbqOE"
+      },
+      {
+        "id": "6Au9Tj4n926BU3SWNJuZwK",
+        "name": "Snowfall Serenade",
+        "trackNumber": 7,
+        "duration": 116559,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6Au9Tj4n926BU3SWNJuZwK"
+      },
+      {
+        "id": "46vFYtx5ueHUtW63IUNuRs",
+        "name": "Snowfall Serenade 2",
+        "trackNumber": 8,
+        "duration": 188159,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/46vFYtx5ueHUtW63IUNuRs"
+      },
+      {
+        "id": "34genW0VkvOH9WfwDD27ss",
+        "name": "Snowbound Hearts",
+        "trackNumber": 9,
+        "duration": 189999,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/34genW0VkvOH9WfwDD27ss"
+      },
+      {
+        "id": "4Rn2So62c6hjvnD98gwNK2",
+        "name": "Snowbound Hearts 2",
+        "trackNumber": 10,
+        "duration": 216479,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4Rn2So62c6hjvnD98gwNK2"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:04.180Z"
+  },
+  {
+    "id": "mlhs73olw5x4ju4r6iq",
+    "artistId": "mlhs73foukbzt41e039",
+    "artistName": "Based Chad",
+    "spotifyAlbumId": "7Ez43kQNpaAQoxx62dtGuZ",
+    "name": "New Person, Same Old Mistakes",
+    "type": "single",
+    "releaseDate": "2025-07-15",
+    "totalTracks": 3,
+    "image": "https://i.scdn.co/image/ab67616d0000b273d471370dfb36e060eb86ec61",
+    "spotifyUrl": "https://open.spotify.com/album/7Ez43kQNpaAQoxx62dtGuZ",
+    "tracks": [
+      {
+        "id": "4HBSuHioPjxMNhADP0Uq0j",
+        "name": "New Person, Same Old Mistakes",
+        "trackNumber": 1,
+        "duration": 192000,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4HBSuHioPjxMNhADP0Uq0j"
+      },
+      {
+        "id": "5hlSMKzEVr6J3S6EpWEq21",
+        "name": "New Person, Same Old Mistakes - Slowed",
+        "trackNumber": 2,
+        "duration": 240000,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5hlSMKzEVr6J3S6EpWEq21"
+      },
+      {
+        "id": "3vIDoVjbh2pgIl647wjg3q",
+        "name": "New Person, Same Old Mistakes - Sped Up",
+        "trackNumber": 3,
+        "duration": 160000,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3vIDoVjbh2pgIl647wjg3q"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:04.773Z"
+  },
+  {
+    "id": "mlhs73rk2jrjkmk41h",
+    "artistId": "mlhs73foukbzt41e039",
+    "artistName": "Based Chad",
+    "spotifyAlbumId": "26DzLSu35bkloCkfoOSKiP",
+    "name": "Moonfunk",
+    "type": "single",
+    "releaseDate": "2025-04-09",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27364432dd66778dacbb2c59ac8",
+    "spotifyUrl": "https://open.spotify.com/album/26DzLSu35bkloCkfoOSKiP",
+    "tracks": [
+      {
+        "id": "20ZrLnZHIp2M5WTmakFyMd",
+        "name": "Moonfunk",
+        "trackNumber": 1,
+        "duration": 118131,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/20ZrLnZHIp2M5WTmakFyMd"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:04.880Z"
+  },
+  {
+    "id": "mlhs73uaw1ecddyoq2l",
+    "artistId": "mlhs73foukbzt41e039",
+    "artistName": "Based Chad",
+    "spotifyAlbumId": "5PjLDNTFqo02yEiK3YgUxR",
+    "name": "Fubon",
+    "type": "single",
+    "releaseDate": "2025-04-09",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2735a2b8b2508fd8cae83851d8b",
+    "spotifyUrl": "https://open.spotify.com/album/5PjLDNTFqo02yEiK3YgUxR",
+    "tracks": [
+      {
+        "id": "4qO5YcXzl5GQLjp3dpKLFo",
+        "name": "Fubon",
+        "trackNumber": 1,
+        "duration": 102068,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4qO5YcXzl5GQLjp3dpKLFo"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:04.978Z"
+  },
+  {
+    "id": "mlhs73xslcd1tf0qjjd",
+    "artistId": "mlhs73foukbzt41e039",
+    "artistName": "Based Chad",
+    "spotifyAlbumId": "5AA5DVGMs7wU1j8c5W4yEa",
+    "name": "Confess Your Love",
+    "type": "single",
+    "releaseDate": "2022-07-29",
+    "totalTracks": 3,
+    "image": "https://i.scdn.co/image/ab67616d0000b27397aead20b0aad6adb09adff3",
+    "spotifyUrl": "https://open.spotify.com/album/5AA5DVGMs7wU1j8c5W4yEa",
+    "tracks": [
+      {
+        "id": "7wgMpc3KfrfCsKZ3FmW2Fe",
+        "name": "Confess Your Love",
+        "trackNumber": 1,
+        "duration": 131318,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7wgMpc3KfrfCsKZ3FmW2Fe"
+      },
+      {
+        "id": "2Ntr1OfZGosh95UIeWahj9",
+        "name": "Confess Your Love - Slowed+Reverb",
+        "trackNumber": 2,
+        "duration": 145909,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2Ntr1OfZGosh95UIeWahj9"
+      },
+      {
+        "id": "17mWu3rlPBcmVhsUq6Dmcm",
+        "name": "Confess Your Love - Sped Up",
+        "trackNumber": 3,
+        "duration": 125065,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/17mWu3rlPBcmVhsUq6Dmcm"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:05.104Z"
+  },
+  {
+    "id": "mlhs740jq6nfuzsvths",
+    "artistId": "mlhs73foukbzt41e039",
+    "artistName": "Based Chad",
+    "spotifyAlbumId": "0bCouMo2C1Dn7tiWmNxcN0",
+    "name": "The Story",
+    "type": "single",
+    "releaseDate": "2020-06-12",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273ed4442d14adcb7f05952edfe",
+    "spotifyUrl": "https://open.spotify.com/album/0bCouMo2C1Dn7tiWmNxcN0",
+    "tracks": [
+      {
+        "id": "5Z3BuDySlvArNIlKIqX5vp",
+        "name": "The Story",
+        "trackNumber": 1,
+        "duration": 115200,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5Z3BuDySlvArNIlKIqX5vp"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:05.203Z"
+  },
+  {
+    "id": "mlhs743zsvtmwxb4zyo",
+    "artistId": "mlhs73foukbzt41e039",
+    "artistName": "Based Chad",
+    "spotifyAlbumId": "5vzPe7zVIycORUitiGHDqP",
+    "name": "Tmrrw",
+    "type": "single",
+    "releaseDate": "2017-09-26",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273c28dc6de8096dfd115d7be5f",
+    "spotifyUrl": "https://open.spotify.com/album/5vzPe7zVIycORUitiGHDqP",
+    "tracks": [
+      {
+        "id": "0x6qEdWwDjyieap01ohiDz",
+        "name": "Tmrrw",
+        "trackNumber": 1,
+        "duration": 92054,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0x6qEdWwDjyieap01ohiDz"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:05.327Z"
+  },
+  {
+    "id": "mlhs746zdjdh868ilv8",
+    "artistId": "mlhs73foukbzt41e039",
+    "artistName": "Based Chad",
+    "spotifyAlbumId": "7Gtzr8XoQluKA3hASO0o0p",
+    "name": "Hymn for the Weekend",
+    "type": "single",
+    "releaseDate": "2015-01-25",
+    "totalTracks": 3,
+    "image": "https://i.scdn.co/image/ab67616d0000b27399a7ffe570f0f0369f945bd9",
+    "spotifyUrl": "https://open.spotify.com/album/7Gtzr8XoQluKA3hASO0o0p",
+    "tracks": [
+      {
+        "id": "2L5IPlVwkDkWUkZ5wT7znO",
+        "name": "Hymn for the Weekend",
+        "trackNumber": 1,
+        "duration": 227017,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2L5IPlVwkDkWUkZ5wT7znO"
+      },
+      {
+        "id": "6YcJRrdPmWbUxQ2rSHUKps",
+        "name": "Hymn for the Weekend - Slowed+Reverb",
+        "trackNumber": 2,
+        "duration": 267079,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6YcJRrdPmWbUxQ2rSHUKps"
+      },
+      {
+        "id": "7kbkgf8dQsRwTvXwQLuzV1",
+        "name": "Hymn for the Weekend - Sped Up",
+        "trackNumber": 3,
+        "duration": 206379,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7kbkgf8dQsRwTvXwQLuzV1"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:05.435Z"
+  },
+  {
+    "id": "mlhs74j36czmsqzv05a",
+    "artistId": "mlhs74cm6h4rofrjrnt",
+    "artistName": "CALMYN",
+    "spotifyAlbumId": "6N6hK5NvpVVaibKSTNbpCx",
+    "name": "THEO",
+    "type": "single",
+    "releaseDate": "2021-04-30",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2734f7771c009ab33e0cd4437e8",
+    "spotifyUrl": "https://open.spotify.com/album/6N6hK5NvpVVaibKSTNbpCx",
+    "tracks": [
+      {
+        "id": "4pRb1uz2B6MAUZeE2wDcyK",
+        "name": "THEO",
+        "trackNumber": 1,
+        "duration": 125628,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4pRb1uz2B6MAUZeE2wDcyK"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:05.871Z"
+  },
+  {
+    "id": "mlhs74lzvpyw84xpw9g",
+    "artistId": "mlhs74cm6h4rofrjrnt",
+    "artistName": "CALMYN",
+    "spotifyAlbumId": "1lw7RMsllxdIvAyPkty4tr",
+    "name": "Owls",
+    "type": "single",
+    "releaseDate": "2017-10-29",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2733b5a4f88532ff3f6c7498aa8",
+    "spotifyUrl": "https://open.spotify.com/album/1lw7RMsllxdIvAyPkty4tr",
+    "tracks": [
+      {
+        "id": "07ZasgvcxIkWvZucruSiZY",
+        "name": "Owls",
+        "trackNumber": 1,
+        "duration": 75287,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/07ZasgvcxIkWvZucruSiZY"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:05.975Z"
+  },
+  {
+    "id": "mlhs74xmpkoy53hwsq",
+    "artistId": "mlhs74rkw9jwph77kmo",
+    "artistName": "Yuki the Akita",
+    "spotifyAlbumId": "1lmYrZ7cf4ucWW4bY7VDAn",
+    "name": "Sunrise",
+    "type": "single",
+    "releaseDate": "2020-10-09",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2736680604e8eb86b25cd7faf43",
+    "spotifyUrl": "https://open.spotify.com/album/1lmYrZ7cf4ucWW4bY7VDAn",
+    "tracks": [
+      {
+        "id": "37hUzOMy7MrzZLZk3E7Yrd",
+        "name": "Sunrise",
+        "trackNumber": 1,
+        "duration": 209351,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/37hUzOMy7MrzZLZk3E7Yrd"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:06.394Z"
+  },
+  {
+    "id": "mlhs750hcqkox40v3hc",
+    "artistId": "mlhs74rkw9jwph77kmo",
+    "artistName": "Yuki the Akita",
+    "spotifyAlbumId": "0Dscz08lc14URVnzVmcAqN",
+    "name": "Silent, Again",
+    "type": "single",
+    "releaseDate": "2019-03-16",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2736f6c57a02e219f51a50f622e",
+    "spotifyUrl": "https://open.spotify.com/album/0Dscz08lc14URVnzVmcAqN",
+    "tracks": [
+      {
+        "id": "6SIa8e215TVyhRFAZOLWsK",
+        "name": "Silent, Again",
+        "trackNumber": 1,
+        "duration": 125201,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6SIa8e215TVyhRFAZOLWsK"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:06.497Z"
+  },
+  {
+    "id": "mlhs75c7irwqbe4cwmh",
+    "artistId": "mlhs756i9s1tqhs6rnr",
+    "artistName": "Søma",
+    "spotifyAlbumId": "5gTjk6BsyF4gwdS0BCsEpr",
+    "name": "What He Grip",
+    "type": "single",
+    "releaseDate": "2018-09-29",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2734ebde02a013d94a9f43154fd",
+    "spotifyUrl": "https://open.spotify.com/album/5gTjk6BsyF4gwdS0BCsEpr",
+    "tracks": [
+      {
+        "id": "38DA2OGn539wZARwsVw8Gc",
+        "name": "What He Grip",
+        "trackNumber": 1,
+        "duration": 127883,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/38DA2OGn539wZARwsVw8Gc"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:06.919Z"
+  },
+  {
+    "id": "mlhs75p7svcjeipa8",
+    "artistId": "mlhs75hpiceyllsoow",
+    "artistName": "Oblyn",
+    "spotifyAlbumId": "7cbGZNUEnmSLKwO2Zn0Jsq",
+    "name": "Slaps",
+    "type": "single",
+    "releaseDate": "2016-02-26",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2732fc826861b68ddfbcb9d46a4",
+    "spotifyUrl": "https://open.spotify.com/album/7cbGZNUEnmSLKwO2Zn0Jsq",
+    "tracks": [
+      {
+        "id": "5yrw0KBrBRHhbCR1kuo2HV",
+        "name": "Slaps",
+        "trackNumber": 1,
+        "duration": 167602,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5yrw0KBrBRHhbCR1kuo2HV"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:07.387Z"
+  },
+  {
+    "id": "mlhs7632zl4kz8p618",
+    "artistId": "mlhs75v2nny53iytfi",
+    "artistName": "Cayerpayer",
+    "spotifyAlbumId": "32UER3DZAyUhOV2o8SYEBE",
+    "name": "Mosaic",
+    "type": "album",
+    "releaseDate": "2016-11-28",
+    "totalTracks": 8,
+    "image": "https://i.scdn.co/image/ab67616d0000b2733b7c90ba5ea327ab0f5bc0fa",
+    "spotifyUrl": "https://open.spotify.com/album/32UER3DZAyUhOV2o8SYEBE",
+    "tracks": [
+      {
+        "id": "5teGqioA8eVtmyMU2c9qTo",
+        "name": "Tidegus",
+        "trackNumber": 1,
+        "duration": 163196,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5teGqioA8eVtmyMU2c9qTo"
+      },
+      {
+        "id": "1AW7M3f8FqjK3GsAiinVR0",
+        "name": "Inlove",
+        "trackNumber": 2,
+        "duration": 163631,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1AW7M3f8FqjK3GsAiinVR0"
+      },
+      {
+        "id": "2FaLcR9EvH7Or2ufXKC1w3",
+        "name": "Akaido",
+        "trackNumber": 3,
+        "duration": 191223,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2FaLcR9EvH7Or2ufXKC1w3"
+      },
+      {
+        "id": "5Scqgzsezen0P1v2rwk8P9",
+        "name": "Breakingup",
+        "trackNumber": 4,
+        "duration": 158589,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5Scqgzsezen0P1v2rwk8P9"
+      },
+      {
+        "id": "7bmEEdO3Pn2nBuCgiMYxIA",
+        "name": "Boada",
+        "trackNumber": 5,
+        "duration": 144716,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7bmEEdO3Pn2nBuCgiMYxIA"
+      },
+      {
+        "id": "2YIofenWy2r331wOIvdcbY",
+        "name": "Sid",
+        "trackNumber": 6,
+        "duration": 177188,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2YIofenWy2r331wOIvdcbY"
+      },
+      {
+        "id": "1OG90zSntcdw6C3Ri6O9eF",
+        "name": "Trueb",
+        "trackNumber": 7,
+        "duration": 184320,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1OG90zSntcdw6C3Ri6O9eF"
+      },
+      {
+        "id": "65lZmMi3eIvDxSFPHEeeP2",
+        "name": "Birds",
+        "trackNumber": 8,
+        "duration": 157965,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/65lZmMi3eIvDxSFPHEeeP2"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:07.886Z"
+  },
+  {
+    "id": "mlhs765yudczaqn1daf",
+    "artistId": "mlhs75v2nny53iytfi",
+    "artistName": "Cayerpayer",
+    "spotifyAlbumId": "0pjQN3kmYW4AXVX5KDbB3e",
+    "name": "Changes",
+    "type": "single",
+    "releaseDate": "2021-01-08",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273109d68faa50f2f0845f17e34",
+    "spotifyUrl": "https://open.spotify.com/album/0pjQN3kmYW4AXVX5KDbB3e",
+    "tracks": [
+      {
+        "id": "6KYXSsUDajGdXUyP1onNdt",
+        "name": "Changes",
+        "trackNumber": 1,
+        "duration": 117081,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6KYXSsUDajGdXUyP1onNdt"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:07.990Z"
+  },
+  {
+    "id": "mlhs768sla3ldlx7vjs",
+    "artistId": "mlhs75v2nny53iytfi",
+    "artistName": "Cayerpayer",
+    "spotifyAlbumId": "34Mw4PsDPZjLi4NtQ9nb1u",
+    "name": "Still Dreaming",
+    "type": "single",
+    "releaseDate": "2020-11-29",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273b68b2c35cfbade21d8b058e6",
+    "spotifyUrl": "https://open.spotify.com/album/34Mw4PsDPZjLi4NtQ9nb1u",
+    "tracks": [
+      {
+        "id": "66giNvgDBCoT0xOezoHld6",
+        "name": "Still Dreaming",
+        "trackNumber": 1,
+        "duration": 170086,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/66giNvgDBCoT0xOezoHld6"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:08.092Z"
+  },
+  {
+    "id": "mlhs76eop1dt616svup",
+    "artistId": "mlhs75v2nny53iytfi",
+    "artistName": "Cayerpayer",
+    "spotifyAlbumId": "3LuzYTW0pJjeNi0vhMOvoc",
+    "name": "Circles",
+    "type": "single",
+    "releaseDate": "2020-07-31",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27331d14d30561f5bf5c7944bd4",
+    "spotifyUrl": "https://open.spotify.com/album/3LuzYTW0pJjeNi0vhMOvoc",
+    "tracks": [
+      {
+        "id": "5Y0QxrjvqgVnpLkIFz4hf8",
+        "name": "Circles",
+        "trackNumber": 1,
+        "duration": 178723,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5Y0QxrjvqgVnpLkIFz4hf8"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:08.304Z"
+  },
+  {
+    "id": "mlhs76ujm9jt9avy588",
+    "artistId": "mlhs76k54kgqluuxsl",
+    "artistName": "FlowPayer",
+    "spotifyAlbumId": "5chrpm5B9tTfuYPBTaqTYf",
+    "name": "Loop Soup",
+    "type": "album",
+    "releaseDate": "2018-02-23",
+    "totalTracks": 11,
+    "image": "https://i.scdn.co/image/ab67616d0000b273255b8d012b9c17d2e7f66144",
+    "spotifyUrl": "https://open.spotify.com/album/5chrpm5B9tTfuYPBTaqTYf",
+    "tracks": [
+      {
+        "id": "7uS9tymtWbKzSD22D5zGw0",
+        "name": "Noodles",
+        "trackNumber": 1,
+        "duration": 55014,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7uS9tymtWbKzSD22D5zGw0"
+      },
+      {
+        "id": "7pq4hjFqkih9Qp3o3neoDe",
+        "name": "Celery",
+        "trackNumber": 2,
+        "duration": 51005,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7pq4hjFqkih9Qp3o3neoDe"
+      },
+      {
+        "id": "3Ib6uHu52E5GodQPrJQQ49",
+        "name": "Carrots",
+        "trackNumber": 3,
+        "duration": 51031,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3Ib6uHu52E5GodQPrJQQ49"
+      },
+      {
+        "id": "4WDSIVqrxSygiE3R225dhd",
+        "name": "Parsley",
+        "trackNumber": 4,
+        "duration": 55994,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4WDSIVqrxSygiE3R225dhd"
+      },
+      {
+        "id": "4HpPww6RWtignGMlLVxYWm",
+        "name": "Mushroom",
+        "trackNumber": 5,
+        "duration": 78015,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/4HpPww6RWtignGMlLVxYWm"
+      },
+      {
+        "id": "0UkOdQL5aE6KEsb2a7rtbt",
+        "name": "Corn",
+        "trackNumber": 6,
+        "duration": 70022,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0UkOdQL5aE6KEsb2a7rtbt"
+      },
+      {
+        "id": "6K1ZoUgGp9VQQ8JzQey7T8",
+        "name": "Peas",
+        "trackNumber": 7,
+        "duration": 62002,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/6K1ZoUgGp9VQQ8JzQey7T8"
+      },
+      {
+        "id": "5iIcAZpYHBptRMxRIGLX0o",
+        "name": "Salt",
+        "trackNumber": 8,
+        "duration": 72033,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5iIcAZpYHBptRMxRIGLX0o"
+      },
+      {
+        "id": "3ZDjAM7NnxhxFfhkimlqS4",
+        "name": "Pepper",
+        "trackNumber": 9,
+        "duration": 69996,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3ZDjAM7NnxhxFfhkimlqS4"
+      },
+      {
+        "id": "2efBe8vwIg4lojdzbuJOq6",
+        "name": "Broth",
+        "trackNumber": 10,
+        "duration": 74019,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2efBe8vwIg4lojdzbuJOq6"
+      },
+      {
+        "id": "1oz9AUXjZBsATjIz3OEPXy",
+        "name": "Simmer",
+        "trackNumber": 11,
+        "duration": 67018,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1oz9AUXjZBsATjIz3OEPXy"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:08.875Z"
+  },
+  {
+    "id": "mlhs76xkxran3cpf7uc",
+    "artistId": "mlhs76k54kgqluuxsl",
+    "artistName": "FlowPayer",
+    "spotifyAlbumId": "2fpe4Q7tj5W2VLeveCIMGO",
+    "name": "Mine",
+    "type": "single",
+    "releaseDate": "2020-11-20",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2736914d08743f566645c341e89",
+    "spotifyUrl": "https://open.spotify.com/album/2fpe4Q7tj5W2VLeveCIMGO",
+    "tracks": [
+      {
+        "id": "7f3dCNNbVvzAW2danY3FJy",
+        "name": "Mine",
+        "trackNumber": 1,
+        "duration": 123344,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7f3dCNNbVvzAW2danY3FJy"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:08.984Z"
+  },
+  {
+    "id": "mlhs770tlaxeu2hjma",
+    "artistId": "mlhs76k54kgqluuxsl",
+    "artistName": "FlowPayer",
+    "spotifyAlbumId": "3BzdHk58AoUmXMAD6MkD5t",
+    "name": "On the Rocks",
+    "type": "single",
+    "releaseDate": "2019-01-16",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2738b52af045e3a89efc8bec469",
+    "spotifyUrl": "https://open.spotify.com/album/3BzdHk58AoUmXMAD6MkD5t",
+    "tracks": [
+      {
+        "id": "2uuIoRcLCrHx9a1twX3Fgs",
+        "name": "On the Rocks",
+        "trackNumber": 1,
+        "duration": 100336,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2uuIoRcLCrHx9a1twX3Fgs"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:09.101Z"
+  },
+  {
+    "id": "mlhs773nn5c9vd2w6kn",
+    "artistId": "mlhs76k54kgqluuxsl",
+    "artistName": "FlowPayer",
+    "spotifyAlbumId": "6UIhcpALcNuq4g1x4GF9LD",
+    "name": "cereal",
+    "type": "single",
+    "releaseDate": "2017-05-03",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273f341c31594f2221789f2e276",
+    "spotifyUrl": "https://open.spotify.com/album/6UIhcpALcNuq4g1x4GF9LD",
+    "tracks": [
+      {
+        "id": "0lk262zPHRyXtOxAt03WAk",
+        "name": "cereal",
+        "trackNumber": 1,
+        "duration": 76383,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0lk262zPHRyXtOxAt03WAk"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:09.203Z"
+  },
+  {
+    "id": "mlhs776a7xcppujgu83",
+    "artistId": "mlhs76k54kgqluuxsl",
+    "artistName": "FlowPayer",
+    "spotifyAlbumId": "5JbzYfqh7idg3WiEU8LWjT",
+    "name": "Noriko's Story",
+    "type": "single",
+    "releaseDate": "2017-01-07",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273dc1b200ac485f5eaebea3499",
+    "spotifyUrl": "https://open.spotify.com/album/5JbzYfqh7idg3WiEU8LWjT",
+    "tracks": [
+      {
+        "id": "0V0rOVLSGzFC8EJvZj61ux",
+        "name": "Noriko's Story",
+        "trackNumber": 1,
+        "duration": 135233,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0V0rOVLSGzFC8EJvZj61ux"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:09.298Z"
+  },
+  {
+    "id": "mlhs77b4d5dkfbcpqci",
+    "artistId": "mlhs76k54kgqluuxsl",
+    "artistName": "FlowPayer",
+    "spotifyAlbumId": "5iTbYs55HZgtvdF6FRpL5s",
+    "name": "Fantasy",
+    "type": "single",
+    "releaseDate": "2016-12-29",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27360c5ace35593ab1a3fd02ae4",
+    "spotifyUrl": "https://open.spotify.com/album/5iTbYs55HZgtvdF6FRpL5s",
+    "tracks": [
+      {
+        "id": "5khXqfEjLzj42dEI0U7B1y",
+        "name": "Fantasy",
+        "trackNumber": 1,
+        "duration": 201804,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5khXqfEjLzj42dEI0U7B1y"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:09.472Z"
+  },
+  {
+    "id": "mlhs77f69rpy8mz1twk",
+    "artistId": "mlhs76k54kgqluuxsl",
+    "artistName": "FlowPayer",
+    "spotifyAlbumId": "02YisVaAne3YFA2X5dJNLn",
+    "name": "Elsewhere",
+    "type": "single",
+    "releaseDate": "2016-12-16",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27317e52042f1f90720a4096f5b",
+    "spotifyUrl": "https://open.spotify.com/album/02YisVaAne3YFA2X5dJNLn",
+    "tracks": [
+      {
+        "id": "2RwYy3Rn6ZNyDQHLD116rD",
+        "name": "Elsewhere",
+        "trackNumber": 1,
+        "duration": 259459,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2RwYy3Rn6ZNyDQHLD116rD"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:09.618Z"
+  },
+  {
+    "id": "mlhs77rqznwl9uiatb9",
+    "artistId": "mlhs77lhhdjmusa6fx",
+    "artistName": "KNSVX",
+    "spotifyAlbumId": "7B5mikYgJSJ0TabeUdAhlc",
+    "name": "Night Glow",
+    "type": "single",
+    "releaseDate": "2023-10-27",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2730f95fac2f5865fc5ffb9e844",
+    "spotifyUrl": "https://open.spotify.com/album/7B5mikYgJSJ0TabeUdAhlc",
+    "tracks": [
+      {
+        "id": "3PqQEsIxHEg5rLzZc1x5na",
+        "name": "Night Glow",
+        "trackNumber": 1,
+        "duration": 131006,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3PqQEsIxHEg5rLzZc1x5na"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:10.070Z"
+  },
+  {
+    "id": "mlhs77upvnrgpcw6bzs",
+    "artistId": "mlhs77lhhdjmusa6fx",
+    "artistName": "KNSVX",
+    "spotifyAlbumId": "22icE1qPxmbrApooybdrHe",
+    "name": "Texture",
+    "type": "single",
+    "releaseDate": "2019-12-06",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273a7f3f84454102f98aeb19b19",
+    "spotifyUrl": "https://open.spotify.com/album/22icE1qPxmbrApooybdrHe",
+    "tracks": [
+      {
+        "id": "2vKbGrM9VsDGMzdwEoruWh",
+        "name": "Texture",
+        "trackNumber": 1,
+        "duration": 199182,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2vKbGrM9VsDGMzdwEoruWh"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:10.177Z"
+  },
+  {
+    "id": "mlhs77xf4h0gyk9xide",
+    "artistId": "mlhs77lhhdjmusa6fx",
+    "artistName": "KNSVX",
+    "spotifyAlbumId": "5vGUGVzDtBbU1i91dKgBfT",
+    "name": "Wholelottabap",
+    "type": "single",
+    "releaseDate": "2011-07-29",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2734554da5262c55bb6c9a8ed2f",
+    "spotifyUrl": "https://open.spotify.com/album/5vGUGVzDtBbU1i91dKgBfT",
+    "tracks": [
+      {
+        "id": "0LnQxVvAeVP7ki8ePtW30P",
+        "name": "Wholelottabap",
+        "trackNumber": 1,
+        "duration": 131395,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0LnQxVvAeVP7ki8ePtW30P"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:10.275Z"
+  },
+  {
+    "id": "mlhs789y51o21477jhe",
+    "artistId": "mlhs783qbtuumcijbvj",
+    "artistName": "Cyraya",
+    "spotifyAlbumId": "6u0Z4epjaPcEL07ByOBORo",
+    "name": "Rainfall",
+    "type": "single",
+    "releaseDate": "2017-09-26",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2732c845529e0d2ccd7d8c8d816",
+    "spotifyUrl": "https://open.spotify.com/album/6u0Z4epjaPcEL07ByOBORo",
+    "tracks": [
+      {
+        "id": "1YPVeypAFi9t9a7EmoxWIl",
+        "name": "Rainfall",
+        "trackNumber": 1,
+        "duration": 95076,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1YPVeypAFi9t9a7EmoxWIl"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:10.726Z"
+  },
+  {
+    "id": "mlhs78cl56mh9bvvzcs",
+    "artistId": "mlhs783qbtuumcijbvj",
+    "artistName": "Cyraya",
+    "spotifyAlbumId": "4wLTHRbl3DS10A2qjgf0LL",
+    "name": "I Don't Luv U Anymore",
+    "type": "single",
+    "releaseDate": "2017-09-26",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27329ba30286afd2159fc0754d5",
+    "spotifyUrl": "https://open.spotify.com/album/4wLTHRbl3DS10A2qjgf0LL",
+    "tracks": [
+      {
+        "id": "2xAYoXZSfd0pkb7alMbj11",
+        "name": "I Don't Luv U Anymore",
+        "trackNumber": 1,
+        "duration": 81538,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/2xAYoXZSfd0pkb7alMbj11"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:10.821Z"
+  },
+  {
+    "id": "mlhs78p34rw4ngw1t3n",
+    "artistId": "mlhs78irxuebcye2bd",
+    "artistName": "Lunory",
+    "spotifyAlbumId": "6q0KXhseOib9DM6SpfKZy2",
+    "name": "Good Enough?",
+    "type": "single",
+    "releaseDate": "2019-08-30",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273591cd30807aad0a9a2d50335",
+    "spotifyUrl": "https://open.spotify.com/album/6q0KXhseOib9DM6SpfKZy2",
+    "tracks": [
+      {
+        "id": "3JI86RTU1BcWktklewie6t",
+        "name": "Good Enough?",
+        "trackNumber": 1,
+        "duration": 107032,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3JI86RTU1BcWktklewie6t"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:11.271Z"
+  },
+  {
+    "id": "mlhs791jq999ac3aabd",
+    "artistId": "mlhs78vgh03b8tcc0cc",
+    "artistName": "RXNSA",
+    "spotifyAlbumId": "6pYRCI9aQhD6n1Jht8843O",
+    "name": "Dying Sun",
+    "type": "single",
+    "releaseDate": "2018-05-14",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273460250e764cbca495b576442",
+    "spotifyUrl": "https://open.spotify.com/album/6pYRCI9aQhD6n1Jht8843O",
+    "tracks": [
+      {
+        "id": "092CDVYXkRwsUGUrTrR1BA",
+        "name": "Dying Sun",
+        "trackNumber": 1,
+        "duration": 152451,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/092CDVYXkRwsUGUrTrR1BA"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:11.719Z"
+  },
+  {
+    "id": "mlhs794u340i3lm1k6x",
+    "artistId": "mlhs78vgh03b8tcc0cc",
+    "artistName": "RXNSA",
+    "spotifyAlbumId": "5q363iNAI4QqB6JMeYrO50",
+    "name": "My Brothers Piano",
+    "type": "single",
+    "releaseDate": "2018-02-02",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273f38383995afaea91b8605ec8",
+    "spotifyUrl": "https://open.spotify.com/album/5q363iNAI4QqB6JMeYrO50",
+    "tracks": [
+      {
+        "id": "7pWU33lSaaXroNKMkcwlot",
+        "name": "My Brothers Piano",
+        "trackNumber": 1,
+        "duration": 100310,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/7pWU33lSaaXroNKMkcwlot"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:11.838Z"
+  },
+  {
+    "id": "mlhs79hp1ke8queb706",
+    "artistId": "mlhs79aqkbr62ncbz9g",
+    "artistName": "ALKKZ",
+    "spotifyAlbumId": "4MJbBldSb3f4e6bGnO6Nzh",
+    "name": "skyfall",
+    "type": "single",
+    "releaseDate": "2025-07-20",
+    "totalTracks": 3,
+    "image": "https://i.scdn.co/image/ab67616d0000b2738fdfaada871bcec616d2c4b0",
+    "spotifyUrl": "https://open.spotify.com/album/4MJbBldSb3f4e6bGnO6Nzh",
+    "tracks": [
+      {
+        "id": "5lWwHFSCgh0iCyppI2lvZB",
+        "name": "skyfall",
+        "trackNumber": 1,
+        "duration": 249616,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5lWwHFSCgh0iCyppI2lvZB"
+      },
+      {
+        "id": "1IobJ914EEaCCO3FDlOB48",
+        "name": "skyfall - slowed",
+        "trackNumber": 2,
+        "duration": 293666,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/1IobJ914EEaCCO3FDlOB48"
+      },
+      {
+        "id": "3BFH1aZtcmAxTMDK8egS2v",
+        "name": "skyfall - sped up",
+        "trackNumber": 3,
+        "duration": 217057,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3BFH1aZtcmAxTMDK8egS2v"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:12.301Z"
+  },
+  {
+    "id": "mlhs79krg1067gpwbxh",
+    "artistId": "mlhs79aqkbr62ncbz9g",
+    "artistName": "ALKKZ",
+    "spotifyAlbumId": "0ng7XmCFx9OvwevKFTyhbQ",
+    "name": "Rock That Body (Sped Up)",
+    "type": "single",
+    "releaseDate": "2025-06-21",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27361584565621adf4c2910caa8",
+    "spotifyUrl": "https://open.spotify.com/album/0ng7XmCFx9OvwevKFTyhbQ",
+    "tracks": [
+      {
+        "id": "3eW5sK5jjrHLBQMirtLsg7",
+        "name": "Rock That Body - Sped Up",
+        "trackNumber": 1,
+        "duration": 215713,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3eW5sK5jjrHLBQMirtLsg7"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:12.411Z"
+  },
+  {
+    "id": "mlhs79p9oe5vsz681ba",
+    "artistId": "mlhs79aqkbr62ncbz9g",
+    "artistName": "ALKKZ",
+    "spotifyAlbumId": "0obSwy9iRCpm3IOVu1xBwj",
+    "name": "It Keeps Me Under Your Spell (Slowed Remix)",
+    "type": "single",
+    "releaseDate": "2025-06-07",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2731dca25b22d7b4ec99cf8b80e",
+    "spotifyUrl": "https://open.spotify.com/album/0obSwy9iRCpm3IOVu1xBwj",
+    "tracks": [
+      {
+        "id": "3TsNzwCwWkqP88IxzDMSUI",
+        "name": "It Keeps Me Under Your Spell - Slowed Remix",
+        "trackNumber": 1,
+        "duration": 368175,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/3TsNzwCwWkqP88IxzDMSUI"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:12.573Z"
+  },
+  {
+    "id": "mlhs79ugl9dh888qn3i",
+    "artistId": "mlhs79aqkbr62ncbz9g",
+    "artistName": "ALKKZ",
+    "spotifyAlbumId": "4fcL44bgPNpDdY6d4K49fO",
+    "name": "B2B (Slowed Remix)",
+    "type": "single",
+    "releaseDate": "2025-06-07",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27367e5453aaa98611c8f7a4d8e",
+    "spotifyUrl": "https://open.spotify.com/album/4fcL44bgPNpDdY6d4K49fO",
+    "tracks": [
+      {
+        "id": "39jOP7wjlppKehbj9DNBQY",
+        "name": "B2B - Slowed Remix",
+        "trackNumber": 1,
+        "duration": 388051,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/39jOP7wjlppKehbj9DNBQY"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:12.760Z"
+  },
+  {
+    "id": "mlhs79z193ugx1xnmt8",
+    "artistId": "mlhs79aqkbr62ncbz9g",
+    "artistName": "ALKKZ",
+    "spotifyAlbumId": "58Vnai6tQVvSUheTRi3LOp",
+    "name": "Blessing the Fire Inside You",
+    "type": "single",
+    "releaseDate": "2025-05-22",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273567651693cd692c9a5854e84",
+    "spotifyUrl": "https://open.spotify.com/album/58Vnai6tQVvSUheTRi3LOp",
+    "tracks": [
+      {
+        "id": "0rCPjsCappdD1JtfQWKQHU",
+        "name": "Blessing the Fire Inside You",
+        "trackNumber": 1,
+        "duration": 79808,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0rCPjsCappdD1JtfQWKQHU"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:12.925Z"
+  },
+  {
+    "id": "mlhs7a2gnpv4f10lxz",
+    "artistId": "mlhs79aqkbr62ncbz9g",
+    "artistName": "ALKKZ",
+    "spotifyAlbumId": "3IkmkiM9P01tyrHxfmh22j",
+    "name": "Tony Hoodtrap",
+    "type": "single",
+    "releaseDate": "2025-05-19",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b2730a6d5e437fd69ca4de81c61e",
+    "spotifyUrl": "https://open.spotify.com/album/3IkmkiM9P01tyrHxfmh22j",
+    "tracks": [
+      {
+        "id": "68ZfqZGnMDEqJMj4qNSuTI",
+        "name": "Tony Hoodtrap",
+        "trackNumber": 1,
+        "duration": 67186,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/68ZfqZGnMDEqJMj4qNSuTI"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:13.048Z"
+  },
+  {
+    "id": "mlhs7a5doe2ok6b9yj9",
+    "artistId": "mlhs79aqkbr62ncbz9g",
+    "artistName": "ALKKZ",
+    "spotifyAlbumId": "5ul7zhlnPJxXtbVzRmzrAm",
+    "name": "I Dont F Care (Instrumental)",
+    "type": "single",
+    "releaseDate": "2025-05-18",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b273f323af12535114b043567aad",
+    "spotifyUrl": "https://open.spotify.com/album/5ul7zhlnPJxXtbVzRmzrAm",
+    "tracks": [
+      {
+        "id": "0C5Vgh88uKIsRpoFTU942T",
+        "name": "I Dont F Care - Instrumental",
+        "trackNumber": 1,
+        "duration": 222679,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/0C5Vgh88uKIsRpoFTU942T"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:13.153Z"
+  },
+  {
+    "id": "mlhs7a8azsjypo9zthh",
+    "artistId": "mlhs79aqkbr62ncbz9g",
+    "artistName": "ALKKZ",
+    "spotifyAlbumId": "6WgLV0o9rWV2NvcpXI0GNj",
+    "name": "New Jeans (Slowed Remix)",
+    "type": "single",
+    "releaseDate": "2025-05-12",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27352f4d4d43a78d0ca5ee858d6",
+    "spotifyUrl": "https://open.spotify.com/album/6WgLV0o9rWV2NvcpXI0GNj",
+    "tracks": [
+      {
+        "id": "68rKMyvAsbccGXpH8Z3WnQ",
+        "name": "New Jeans - Slowed Remix",
+        "trackNumber": 1,
+        "duration": 160774,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/68rKMyvAsbccGXpH8Z3WnQ"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:13.258Z"
+  },
+  {
+    "id": "mlhs7aaz61z8pxtiagj",
+    "artistId": "mlhs79aqkbr62ncbz9g",
+    "artistName": "ALKKZ",
+    "spotifyAlbumId": "36ecjL63lqnTrGYIOTH107",
+    "name": "Core (Instrumental)",
+    "type": "single",
+    "releaseDate": "2025-05-03",
+    "totalTracks": 1,
+    "image": "https://i.scdn.co/image/ab67616d0000b27322e6e4fb14f477d622b5a023",
+    "spotifyUrl": "https://open.spotify.com/album/36ecjL63lqnTrGYIOTH107",
+    "tracks": [
+      {
+        "id": "5C9TQosbBhTPNkqW79PKJp",
+        "name": "Core - Instrumental",
+        "trackNumber": 1,
+        "duration": 293221,
+        "previewUrl": null,
+        "spotifyUrl": "https://open.spotify.com/track/5C9TQosbBhTPNkqW79PKJp"
+      }
+    ],
+    "addedAt": "2026-02-11T08:42:13.355Z"
+  }
+]

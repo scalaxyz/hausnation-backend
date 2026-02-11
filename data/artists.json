@@ -1,0 +1,295 @@
+[
+  {
+    "id": "mlhs6s46npupxxndzs",
+    "spotifyId": "5qFm0RtIjVpGVSw6YgaQA2",
+    "name": "Regona",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0377b3cac74b4a7f603f83d5",
+    "genres": [],
+    "popularity": 40,
+    "followers": 5852,
+    "spotifyUrl": "https://open.spotify.com/artist/5qFm0RtIjVpGVSw6YgaQA2",
+    "addedAt": "2026-02-11T08:41:49.782Z"
+  },
+  {
+    "id": "mlhs6u54aip8gnehvug",
+    "spotifyId": "1E6aDMiPI26selhGMeLe8D",
+    "name": "Aurval",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcec91d221749f3ace202000c",
+    "genres": [
+      "lo-fi",
+      "lo-fi beats"
+    ],
+    "popularity": 14,
+    "followers": 2,
+    "spotifyUrl": "https://open.spotify.com/artist/1E6aDMiPI26selhGMeLe8D",
+    "addedAt": "2026-02-11T08:41:52.408Z"
+  },
+  {
+    "id": "mlhs6v2n6fs0l9u8uw9",
+    "spotifyId": "4REhiY9aF8xcBYz5gcN5H8",
+    "name": "Darven",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb10a5fc83334dee7f845d9b17",
+    "genres": [
+      "lo-fi",
+      "lo-fi hip hop",
+      "lo-fi beats"
+    ],
+    "popularity": 32,
+    "followers": 183,
+    "spotifyUrl": "https://open.spotify.com/artist/4REhiY9aF8xcBYz5gcN5H8",
+    "addedAt": "2026-02-11T08:41:53.615Z"
+  },
+  {
+    "id": "mlhs6xq1r4epir7cnik",
+    "spotifyId": "3M5x6gCvUTJJwNr28Zz0b4",
+    "name": "Badlans",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb17fced9821096660e306aae1",
+    "genres": [
+      "lo-fi",
+      "lo-fi hip hop",
+      "lo-fi beats"
+    ],
+    "popularity": 8,
+    "followers": 186,
+    "spotifyUrl": "https://open.spotify.com/artist/3M5x6gCvUTJJwNr28Zz0b4",
+    "addedAt": "2026-02-11T08:41:57.049Z"
+  },
+  {
+    "id": "mlhs6yi4erhbqzrrx9",
+    "spotifyId": "5vbNWAgmkLa9WdjZV34a8M",
+    "name": "Furge",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebda2e7fd626a003ea80375dc8",
+    "genres": [
+      "lo-fi",
+      "lo-fi hip hop"
+    ],
+    "popularity": 7,
+    "followers": 255,
+    "spotifyUrl": "https://open.spotify.com/artist/5vbNWAgmkLa9WdjZV34a8M",
+    "addedAt": "2026-02-11T08:41:58.060Z"
+  },
+  {
+    "id": "mlhs6zjotk1mk8e7egb",
+    "spotifyId": "2cDskR6TsFBMHFwtWiqqTN",
+    "name": "Revora",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4cedbd9e8927741d61e94a56",
+    "genres": [
+      "lo-fi beats",
+      "lo-fi hip hop",
+      "lo-fi"
+    ],
+    "popularity": 2,
+    "followers": 1,
+    "spotifyUrl": "https://open.spotify.com/artist/2cDskR6TsFBMHFwtWiqqTN",
+    "addedAt": "2026-02-11T08:41:59.412Z"
+  },
+  {
+    "id": "mlhs70a9nxfju2792o",
+    "spotifyId": "5ZgJx2xry2nElGC0vS9spa",
+    "name": "Brythis",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732dab445becadc2547c52a41d",
+    "genres": [
+      "lo-fi beats",
+      "lo-fi"
+    ],
+    "popularity": 0,
+    "followers": 0,
+    "spotifyUrl": "https://open.spotify.com/artist/5ZgJx2xry2nElGC0vS9spa",
+    "addedAt": "2026-02-11T08:42:00.369Z"
+  },
+  {
+    "id": "mlhs71096fbcf24pih7",
+    "spotifyId": "4Ed62LzYmYvLEgzgrlGl8K",
+    "name": "Cyraya",
+    "image": "https://i.scdn.co/image/ab67616d0000b273535575c61a87585e21ab1c56",
+    "genres": [],
+    "popularity": 0,
+    "followers": 0,
+    "spotifyUrl": "https://open.spotify.com/artist/4Ed62LzYmYvLEgzgrlGl8K",
+    "addedAt": "2026-02-11T08:42:01.305Z"
+  },
+  {
+    "id": "mlhs71rshbnrxccr86m",
+    "spotifyId": "4DNKay9M8670XHz9qkjKRl",
+    "name": "Ulthera",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731ecee93b155ad806742c0162",
+    "genres": [],
+    "popularity": 0,
+    "followers": 0,
+    "spotifyUrl": "https://open.spotify.com/artist/4DNKay9M8670XHz9qkjKRl",
+    "addedAt": "2026-02-11T08:42:02.296Z"
+  },
+  {
+    "id": "mlhs72bwbjafdk7v6bl",
+    "spotifyId": "2OHdUedl6BjlgO2O7MeZx6",
+    "name": "Kalitho",
+    "image": "https://i.scdn.co/image/ab67616d0000b2737687290387a7f4a466ab7f76",
+    "genres": [],
+    "popularity": 0,
+    "followers": 0,
+    "spotifyUrl": "https://open.spotify.com/artist/2OHdUedl6BjlgO2O7MeZx6",
+    "addedAt": "2026-02-11T08:42:03.020Z"
+  },
+  {
+    "id": "mlhs730q2cvlcsszx3o",
+    "spotifyId": "1yuGSl1oLP4lZJbwIHDAZ2",
+    "name": "Sablobe",
+    "image": "https://i.scdn.co/image/ab67616d0000b273164a1c7d205c4390adfef201",
+    "genres": [],
+    "popularity": 0,
+    "followers": 0,
+    "spotifyUrl": "https://open.spotify.com/artist/1yuGSl1oLP4lZJbwIHDAZ2",
+    "addedAt": "2026-02-11T08:42:03.914Z"
+  },
+  {
+    "id": "mlhs73foukbzt41e039",
+    "spotifyId": "43GNtg6Wd1kHKUZ2edI9Yb",
+    "name": "Based Chad",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb79befb9305b1ec0c0fe662f3",
+    "genres": [
+      "lo-fi beats",
+      "lo-fi"
+    ],
+    "popularity": 12,
+    "followers": 221,
+    "spotifyUrl": "https://open.spotify.com/artist/43GNtg6Wd1kHKUZ2edI9Yb",
+    "addedAt": "2026-02-11T08:42:04.452Z"
+  },
+  {
+    "id": "mlhs74cm6h4rofrjrnt",
+    "spotifyId": "3iZncmciR3ZLW0dr38ych6",
+    "name": "CALMYN",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734f7771c009ab33e0cd4437e8",
+    "genres": [],
+    "popularity": 0,
+    "followers": 1,
+    "spotifyUrl": "https://open.spotify.com/artist/3iZncmciR3ZLW0dr38ych6",
+    "addedAt": "2026-02-11T08:42:05.638Z"
+  },
+  {
+    "id": "mlhs74rkw9jwph77kmo",
+    "spotifyId": "1XDcOVyXJKXKi3WESC74tF",
+    "name": "Yuki the Akita",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736f6c57a02e219f51a50f622e",
+    "genres": [],
+    "popularity": 0,
+    "followers": 1,
+    "spotifyUrl": "https://open.spotify.com/artist/1XDcOVyXJKXKi3WESC74tF",
+    "addedAt": "2026-02-11T08:42:06.176Z"
+  },
+  {
+    "id": "mlhs756i9s1tqhs6rnr",
+    "spotifyId": "4JbuxEoZ4rSuQ8MmeKRl0i",
+    "name": "Søma",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734ebde02a013d94a9f43154fd",
+    "genres": [
+      "lo-fi hip hop",
+      "lo-fi"
+    ],
+    "popularity": 0,
+    "followers": 1,
+    "spotifyUrl": "https://open.spotify.com/artist/4JbuxEoZ4rSuQ8MmeKRl0i",
+    "addedAt": "2026-02-11T08:42:06.714Z"
+  },
+  {
+    "id": "mlhs75hpiceyllsoow",
+    "spotifyId": "3Eg0qNGFlWgmPOMV7q9R9V",
+    "name": "Oblyn",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732fc826861b68ddfbcb9d46a4",
+    "genres": [
+      "lo-fi hip hop"
+    ],
+    "popularity": 0,
+    "followers": 1,
+    "spotifyUrl": "https://open.spotify.com/artist/3Eg0qNGFlWgmPOMV7q9R9V",
+    "addedAt": "2026-02-11T08:42:07.117Z"
+  },
+  {
+    "id": "mlhs75v2nny53iytfi",
+    "spotifyId": "5O1Ce2BJ7niqk6bUamyDsI",
+    "name": "Cayerpayer",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebda83a8addddafb3ab26bca54",
+    "genres": [
+      "lo-fi beats",
+      "lo-fi hip hop",
+      "jazz rap",
+      "lo-fi"
+    ],
+    "popularity": 11,
+    "followers": 625,
+    "spotifyUrl": "https://open.spotify.com/artist/5O1Ce2BJ7niqk6bUamyDsI",
+    "addedAt": "2026-02-11T08:42:07.598Z"
+  },
+  {
+    "id": "mlhs76k54kgqluuxsl",
+    "spotifyId": "3Xg2SrVbwimdTjLPZyfq9y",
+    "name": "FlowPayer",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbcd149c61172965969746267",
+    "genres": [
+      "lo-fi",
+      "lo-fi hip hop"
+    ],
+    "popularity": 16,
+    "followers": 354,
+    "spotifyUrl": "https://open.spotify.com/artist/3Xg2SrVbwimdTjLPZyfq9y",
+    "addedAt": "2026-02-11T08:42:08.501Z"
+  },
+  {
+    "id": "mlhs77lhhdjmusa6fx",
+    "spotifyId": "10cwtCX9r0SVzvLiyQk6cS",
+    "name": "KNSVX",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb73764f4b311cb3fe268a68be",
+    "genres": [],
+    "popularity": 1,
+    "followers": 1,
+    "spotifyUrl": "https://open.spotify.com/artist/10cwtCX9r0SVzvLiyQk6cS",
+    "addedAt": "2026-02-11T08:42:09.845Z"
+  },
+  {
+    "id": "mlhs783qbtuumcijbvj",
+    "spotifyId": "40GhrlqUT5JXTSmTWoRBkQ",
+    "name": "Cyraya",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732c845529e0d2ccd7d8c8d816",
+    "genres": [],
+    "popularity": 0,
+    "followers": 0,
+    "spotifyUrl": "https://open.spotify.com/artist/40GhrlqUT5JXTSmTWoRBkQ",
+    "addedAt": "2026-02-11T08:42:10.503Z"
+  },
+  {
+    "id": "mlhs78irxuebcye2bd",
+    "spotifyId": "3liMtbwGKVmU7M7nnubIgc",
+    "name": "Lunory",
+    "image": "https://i.scdn.co/image/ab67616d0000b273591cd30807aad0a9a2d50335",
+    "genres": [],
+    "popularity": 0,
+    "followers": 1,
+    "spotifyUrl": "https://open.spotify.com/artist/3liMtbwGKVmU7M7nnubIgc",
+    "addedAt": "2026-02-11T08:42:11.043Z"
+  },
+  {
+    "id": "mlhs78vgh03b8tcc0cc",
+    "spotifyId": "0vbN6gAODHTcKcu2JPWjrj",
+    "name": "RXNSA",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebacd500cfd26bf395e9b3ac86",
+    "genres": [
+      "trip hop",
+      "downtempo"
+    ],
+    "popularity": 1,
+    "followers": 3,
+    "spotifyUrl": "https://open.spotify.com/artist/0vbN6gAODHTcKcu2JPWjrj",
+    "addedAt": "2026-02-11T08:42:11.500Z"
+  },
+  {
+    "id": "mlhs79aqkbr62ncbz9g",
+    "spotifyId": "1Q3crGPaZqLDm5urOXGJ7o",
+    "name": "ALKKZ",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9bfa730853b0658befde963f",
+    "genres": [],
+    "popularity": 30,
+    "followers": 725,
+    "spotifyUrl": "https://open.spotify.com/artist/1Q3crGPaZqLDm5urOXGJ7o",
+    "addedAt": "2026-02-11T08:42:12.050Z"
+  }
+]
