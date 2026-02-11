@@ -34,13 +34,22 @@ initAdmin();
 const app = express();
 
 // Security middleware
-app.use(helmet());
-
-// CORS configuration
-app.use(cors({
-  origin: process.env.FRONTEND_URL || '*',
-  credentials: true
+app.use(helmet({
+  crossOriginResourcePolicy: { policy: "cross-origin" }
 }));
+
+// CORS configuration - FIXED
+app.use(cors({
+  origin: true, // Allow all origins
+  credentials: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS', 'PATCH'],
+  allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With'],
+  exposedHeaders: ['Content-Range', 'X-Content-Range'],
+  maxAge: 600
+}));
+
+// Handle preflight requests
+app.options('*', cors());
 
 // Body parser
 app.use(express.json());
